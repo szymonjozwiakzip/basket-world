@@ -17,7 +17,7 @@ import StartLublin from "../assets/plk/StartLublin.png";
 import StelmetZielonaGora from "../assets/plk/StelmetZielonaGora.png";
 import TreflSopot from "../assets/plk/TreflSopot.png";
 
-export const icons = {
+export const iconsplk = {
   TwardePierniki: L.icon({
     iconUrl: TwardePierniki,
     iconSize: [32, 32],
