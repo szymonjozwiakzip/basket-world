@@ -69,11 +69,51 @@ export default {
     L.marker([54.426661018998786, 18.58049322300126], {
       icon: iconsplk.TreflSopot,
     }).addTo(this.map);
+    //EST-LAT
     L.marker([56.825619547953394, 24.61128078230789], {
       icon: iconsestlat.BKOgre,
     }).addTo(this.map);
     L.marker([57.38651956880989, 21.571677577218253], {
       icon: iconsestlat.BKVentspils,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.31090909278638, 24.41524792725715], {
+      icon: iconsestlat.KeilaCoolbet,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
+    }).addTo(this.map);
+    L.marker([59.42623503223387, 24.647443839821253], {
+      icon: iconsestlat.KalevCramo,
     }).addTo(this.map);
     L.marker([59.42623503223387, 24.647443839821253], {
       icon: iconsestlat.KalevCramo,
