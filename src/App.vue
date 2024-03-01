@@ -82,41 +82,41 @@ export default {
     L.marker([59.31090909278638, 24.41524792725715], {
       icon: iconsestlat.KeilaCoolbet,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([56.95075314668964, 24.116696709942264], {
+      icon: iconsestlat.LatvijasUniversitate,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([56.52383702235258, 21.028500124402147], {
+      icon: iconsestlat.Liepaja,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([58.376659050163504, 24.532794894943272], {
+      icon: iconsestlat.ParnuSadam,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([48.538067306787454, 35.08009117401352], {
+      icon: iconsestlat.Prometey,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([56.94967325277611, 24.105203635539233], {
+      icon: iconsestlat.RigasZelli,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([59.42771371133274, 24.76053210167751], {
+      icon: iconsestlat.TallinnKalev,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([59.39365857888024, 24.67948570372652], {
+      icon: iconsestlat.TalTech,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([58.38109194962398, 26.719824741126974], {
+      icon: iconsestlat.TartuUlikool,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([58.99602368674895, 24.80149796341459], {
+      icon: iconsestlat.UTILITASRapla,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([57.52812437790353, 25.38903124233461], {
+      icon: iconsestlat.ValmieraGlass,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([56.971520913909664, 24.157465360027565], {
+      icon: iconsestlat.VEFRiga,
     }).addTo(this.map);
-    L.marker([59.42623503223387, 24.647443839821253], {
-      icon: iconsestlat.KalevCramo,
+    L.marker([59.51012210813956, 24.82858143945512], {
+      icon: iconsestlat.Viimsi,
     }).addTo(this.map);
   },
   onBeforeUnmount() {
@@ -134,21 +134,5 @@ export default {
   align-items: center;
   margin: 0 auto;
   display: flex;
-}
-#background {
-  align-items: center;
-  width: 100%;
-  height: 100%;
-}
-
-html,
-body {
-  height: 100%; /* Ustaw wysokość body i html na 100% */
-  margin: 0;
-  padding: 0;
-  background-color: #000000;
-  background-image: url("./assets/background.jpg"); /*Dodaj ścieżkę do Twojego obrazu tła */
-  background-size: cover; /*  Dopasuj obraz tła do rozmiaru kontenera */
-  background-position: center; /*  Wyśrodkuj obraz tła */
 }
 </style>
