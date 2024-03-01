@@ -1,62 +1,68 @@
 import L from "leaflet";
 import Jonava from "../assets/lkllietuva/JonavosCBET.svg";
-import BKVentspils from "../assets/latvian-estonian/BKVentspils.png";
-import KalevCramo from "../assets/latvian-estonian/KalevCramo.png";
-import KeilaCoolbet from "../assets/latvian-estonian/KeilaCoolbet.png";
-import LatvijasUniversitate from "../assets/latvian-estonian/LatvijasUniversitate.png";
-import Liepaja from "../assets/latvian-estonian/Liepaja.png";
-import ParnuSadam from "../assets/latvian-estonian/ParnuSadam.png";
-import Prometey from "../assets/latvian-estonian/Prometey.png";
-import RigasZelli from "../assets/latvian-estonian/RigasZelli.png";
-import TallinnKalev from "../assets/latvian-estonian/TallinnKalev.png";
+import Lietkabelis from "../assets/lkllietuva/Lietkabelis.svg";
+import Mazeikiu from "../assets/lkllietuva/Mazeikiu.svg";
+import NeptunasKlaipeda from "../assets/lkllietuva/NeptunasKlaipeda.svg";
+import Nevezis from "../assets/lkllietuva/Nevezis.svg";
+import Pasvalio from "../assets/lkllietuva/Pasvalio.svg";
+import Rytas from "../assets/lkllietuva/Rytas.svg";
+import Siauliai from "../assets/lkllietuva/Siauliai.svg";
+import UtenosJuventus from "../assets/lkllietuva/UtenosJuventus.svg";
+import Zalgris from "../assets/lkllietuva/Zalgris.svg";
+
 export const iconsestlat = {
   Jonava: L.icon({
     iconUrl: Jonava,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  BKVentspils: L.icon({
-    iconUrl: BKVentspils,
+  Lietkabelis: L.icon({
+    iconUrl: Lietkabelis,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  KalevCramo: L.icon({
-    iconUrl: KalevCramo,
+  Mazeikiu: L.icon({
+    iconUrl: Mazeikiu,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  KeilaCoolbet: L.icon({
-    iconUrl: KeilaCoolbet,
+  NeptunasKlaipeda: L.icon({
+    iconUrl: NeptunasKlaipeda,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  LatvijasUniversitate: L.icon({
-    iconUrl: LatvijasUniversitate,
+  Nevezis: L.icon({
+    iconUrl: Nevezis,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  Liepaja: L.icon({
-    iconUrl: Liepaja,
+  Pasvalio: L.icon({
+    iconUrl: Pasvalio,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  ParnuSadam: L.icon({
-    iconUrl: ParnuSadam,
+  Rytas: L.icon({
+    iconUrl: Rytas,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  Prometey: L.icon({
-    iconUrl: Prometey,
+  Siauliai: L.icon({
+    iconUrl: Siauliai,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  RigasZelli: L.icon({
-    iconUrl: RigasZelli,
+  UtenosJuventus: L.icon({
+    iconUrl: UtenosJuventus,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  TallinnKalev: L.icon({
-    iconUrl: TallinnKalev,
+  VilniausWolves: L.icon({
+    iconUrl: VilniausWolves,
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+  }),
+  Zalgris: L.icon({
+    iconUrl: Zalgris,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
