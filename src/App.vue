@@ -13,7 +13,9 @@ import { iconsplk } from "./components/plk_icons.js";
 import { iconsestlat } from "./components/est-lat_icons.js";
 import { iconslkllietuva } from "./components/lkllietuva_icons.js";
 import { iconsbbl } from "./components/bbl_icons.js";
-import { iconslnb } from "./components/lnb_icons";
+import { iconslnb } from "./components/lnb_icons.js";
+import { iconsacb } from "./components/acb_icons.js";
+import { iconsfpb } from "./components/fpb_icons.js";
 export default {
   name: "LeafletMap",
   mounted() {
@@ -213,6 +215,149 @@ export default {
     //lnb
     L.marker([47.60147519087981, 1.3291299434366033], {
       icon: iconslnb.Blois,
+    }).addTo(this.map);
+    L.marker([46.186876889329746, 5.248483719462745], {
+      icon: iconslnb.Bourg,
+    }).addTo(this.map);
+    L.marker([46.78700442508851, 4.86497107429036], {
+      icon: iconslnb.Chalon,
+    }).addTo(this.map);
+    L.marker([47.05770098081191, -0.8965368489831228], {
+      icon: iconslnb.Cholet,
+    }).addTo(this.map);
+    L.marker([47.33260542793946, 5.056183758967851], {
+      icon: iconslnb.Dijon,
+    }).addTo(this.map);
+    L.marker([50.9986485006889, 2.122533641918873], {
+      icon: iconslnb.Dunquerque,
+    }).addTo(this.map);
+    L.marker([47.95607658600512, 0.22665291481283276], {
+      icon: iconslnb.LeMans,
+    }).addTo(this.map);
+    L.marker([50.71714118478925, 1.5845475792215813], {
+      icon: iconslnb.LePortel,
+    }).addTo(this.map);
+    L.marker([45.82790699320342, 1.2601750254623518], {
+      icon: iconslnb.Limoges,
+    }).addTo(this.map);
+    L.marker([45.76652272498766, 4.907785822132507], {
+      icon: iconslnb.LyonVilleurbanne,
+    }).addTo(this.map);
+    L.marker([48.89609265892796, 2.278006212998819], {
+      icon: iconslnb.Metropolitans,
+    }).addTo(this.map);
+    L.marker([43.727798463463785, 7.415245716506386], {
+      icon: iconslnb.Monaco,
+    }).addTo(this.map);
+    L.marker([48.699513177722736, 6.139059126912494], {
+      icon: iconslnb.Nancy,
+    }).addTo(this.map);
+    L.marker([48.89205773718268, 2.2118121123357595], {
+      icon: iconslnb.Nanterre,
+    }).addTo(this.map);
+    L.marker([48.89932972715457, 2.36000504819353], {
+      icon: iconslnb.Paris,
+    }).addTo(this.map);
+    L.marker([46.03107102443696, 4.051598424530872], {
+      icon: iconslnb.Roanne,
+    }).addTo(this.map);
+    L.marker([49.84879888939587, 3.294151362767722], {
+      icon: iconslnb.SaintQuentin,
+    }).addTo(this.map);
+    L.marker([48.60006076845759, 7.765248335733138], {
+      icon: iconslnb.Strasbourg,
+    }).addTo(this.map);
+    //acb
+    L.marker([42.50496032319114, 1.5164761072100315], {
+      icon: iconsacb.Andorra,
+    }).addTo(this.map);
+    L.marker([41.38004589366775, 2.120142626216099], {
+      icon: iconsacb.Barcelona,
+    }).addTo(this.map);
+    L.marker([42.86404008756398, -2.6415723007180025], {
+      icon: iconsacb.Baskonia,
+    }).addTo(this.map);
+    L.marker([41.72546505172374, 1.8103602206747105], {
+      icon: iconsacb.BAXIManresa,
+    }).addTo(this.map);
+    L.marker([43.252211599647175, -2.926025114196951], {
+      icon: iconsacb.BilbaoBasket,
+    }).addTo(this.map);
+    L.marker([41.63544627115347, -0.86633891371511], {
+      icon: iconsacb.CasademontZaragoza,
+    }).addTo(this.map);
+    L.marker([41.99068962464731, 2.810563536028106], {
+      icon: iconsacb.Girona,
+    }).addTo(this.map);
+    L.marker([37.15353102753301, -3.5939345990540694], {
+      icon: iconsacb.Granada,
+    }).addTo(this.map);
+    L.marker([28.102908756184718, -15.456918260667482], {
+      icon: iconsacb.GranCanaria,
+    }).addTo(this.map);
+    L.marker([41.44222215635477, 2.2325182495020193], {
+      icon: iconsacb.JuventutBadalona,
+    }).addTo(this.map);
+    L.marker([28.45851202506214, -16.296843486780517], {
+      icon: iconsacb.LenovoTenerife,
+    }).addTo(this.map);
+    L.marker([42.876212208669585, -8.53086357928449], {
+      icon: iconsacb.Obradoiro,
+    }).addTo(this.map);
+    L.marker([40.42380590145738, -3.671736030443485], {
+      icon: iconsacb.RealMadrid,
+    }).addTo(this.map);
+    L.marker([43.38498342963564, -8.402141930583442], {
+      icon: iconsacb.RioBreogan,
+    }).addTo(this.map);
+    L.marker([37.99407548206215, -1.1128028199234994], {
+      icon: iconsacb.UCAMMurcia,
+    }).addTo(this.map);
+    L.marker([36.68848775835027, -4.450053280952326], {
+      icon: iconsacb.Unicaja,
+    }).addTo(this.map);
+    L.marker([39.45171907848461, -0.3660734132521466], {
+      icon: iconsacb.Valencia,
+    }).addTo(this.map);
+    L.marker([42.014850554997174, -4.54058279424828], {
+      icon: iconsacb.ZunderPalencia,
+    }).addTo(this.map);
+    //fpb
+    L.marker([32.642725145253074, -16.832418256549268], {
+      icon: iconsfpb.ADGalomar,
+    }).addTo(this.map);
+    L.marker([40.640389453755816, -8.653253975576126], {
+      icon: iconsfpb.AveiroOli,
+    }).addTo(this.map);
+    L.marker([38.73148568865632, -9.140682065436538], {
+      icon: iconsfpb.Benfica,
+    }).addTo(this.map);
+    L.marker([41.38667992171695, -8.772252431455275], {
+      icon: iconsfpb.CDPovoa,
+    }).addTo(this.map);
+    L.marker([37.086925596741175, -8.256454502609065], {
+      icon: iconsfpb.Imortal,
+    }).addTo(this.map);
+    L.marker([37.13015050404671, -8.595018510996516], {
+      icon: iconsfpb.Lusitania,
+    }).addTo(this.map);
+    L.marker([40.83114146451275, -8.48515964681719], {
+      icon: iconsfpb.Oliveirense,
+    }).addTo(this.map);
+    L.marker([40.87642626845812, -8.633420608188667], {
+      icon: iconsfpb.Ovarense,
+    }).addTo(this.map);
+    L.marker([37.13770648679167, -8.535131610571376], {
+      icon: iconsfpb.Portimonense,
+    }).addTo(this.map);
+    L.marker([41.16257676262095, -8.581663629612168], {
+      icon: iconsfpb.Porto,
+    }).addTo(this.map);
+    L.marker([38.76372429987048, -9.158418716197973], {
+      icon: iconsfpb.Sporting,
+    }).addTo(this.map);
+    L.marker([41.4481151179245, -8.280064725901143], {
+      icon: iconsfpb.Vitoria,
     }).addTo(this.map);
   },
   onBeforeUnmount() {
