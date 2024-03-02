@@ -5,7 +5,7 @@ import DinamoSassari from "../assets/legabasketa/DinamoSassari.png";
 import EAMilano from "../assets/legabasketa/EAMilano.png";
 import HappyCasaBrindisi from "../assets/legabasketa/HappyCasaBrindisi.png";
 import Napoli from "../assets/legabasketa/Napoli.png";
-import Presaro from "../assets/legabasketa/Presaro.png";
+import Pesaro from "../assets/legabasketa/Pesaro.png";
 import Pistoia from "../assets/legabasketa/Pistoia.png";
 import ReggioEmilia from "../assets/legabasketa/ReggioEmilia.png";
 import Scafati from "../assets/legabasketa/Scafati.png";
@@ -47,8 +47,8 @@ export const iconslegabasketa = {
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  Presaro: L.icon({
-    iconUrl: Presaro,
+  Pesaro: L.icon({
+    iconUrl: Pesaro,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),

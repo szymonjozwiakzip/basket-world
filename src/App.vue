@@ -16,10 +16,14 @@ import { iconsbbl } from "./components/bbl_icons.js";
 import { iconslnb } from "./components/lnb_icons.js";
 import { iconsacb } from "./components/acb_icons.js";
 import { iconsfpb } from "./components/fpb_icons.js";
+import { iconslegabasketa } from "./components/legabasketa_icons.js";
+import { iconsaba } from "./components/aba_icons.js";
+import { iconsa1ethniki } from "./components/a1ethniki_icons.js";
+
 export default {
   name: "LeafletMap",
   mounted() {
-    this.map = L.map("mapContainer").setView([52, 20.0], 5);
+    this.map = L.map("mapContainer").setView([47, 12.0], 4);
 
     L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
       attribution:
@@ -358,6 +362,102 @@ export default {
     }).addTo(this.map);
     L.marker([41.4481151179245, -8.280064725901143], {
       icon: iconsfpb.Vitoria,
+    }).addTo(this.map);
+    //lega basket a
+    L.marker([45.151506148918166, 10.033989173059261], {
+      icon: iconslegabasketa.BasketCremona,
+    }).addTo(this.map);
+    L.marker([45.52930109962681, 10.176807829097593], {
+      icon: iconslegabasketa.Brescia,
+    }).addTo(this.map);
+    L.marker([40.717085825806734, 8.583153316402663], {
+      icon: iconslegabasketa.DinamoSassari,
+    }).addTo(this.map);
+    L.marker([45.401449836426195, 9.14226251101499], {
+      icon: iconslegabasketa.EAMilano,
+    }).addTo(this.map);
+    L.marker([40.61426788347855, 17.946716486103814], {
+      icon: iconslegabasketa.HappyCasaBrindisi,
+    }).addTo(this.map);
+    L.marker([40.82238340384062, 14.179210872227081], {
+      icon: iconslegabasketa.Napoli,
+    }).addTo(this.map);
+    L.marker([43.90315155258487, 12.86711784773697], {
+      icon: iconslegabasketa.Pesaro,
+    }).addTo(this.map);
+    L.marker([43.931253330684214, 10.940439856991322], {
+      icon: iconslegabasketa.Pistoia,
+    }).addTo(this.map);
+    L.marker([44.69914300936736, 10.624717630033905], {
+      icon: iconslegabasketa.ReggioEmilia,
+    }).addTo(this.map);
+    L.marker([40.76329739278071, 14.517930889688], {
+      icon: iconslegabasketa.Scafati,
+    }).addTo(this.map);
+    L.marker([45.12439133053979, 8.46150661655685], {
+      icon: iconslegabasketa.Tortona,
+    }).addTo(this.map);
+    L.marker([46.041817343325064, 11.122784238329407], {
+      icon: iconslegabasketa.Trentino,
+    }).addTo(this.map);
+    L.marker([45.724035581450394, 12.262514609176275], {
+      icon: iconslegabasketa.Treviso,
+    }).addTo(this.map);
+    L.marker([45.83614494418462, 8.8023419171209], {
+      icon: iconslegabasketa.Varese,
+    }).addTo(this.map);
+    L.marker([45.48854715684501, 12.278712685883693], {
+      icon: iconslegabasketa.Venezia,
+    }).addTo(this.map);
+    L.marker([44.48592839613759, 11.248183180295117], {
+      icon: iconslegabasketa.VirtusBologna,
+    }).addTo(this.map);
+    //aba
+    L.marker([42.43807428388677, 19.253949729953654], {
+      icon: iconsaba.Buducnost,
+    }).addTo(this.map);
+    L.marker([46.0813735938495, 14.521596285905751], {
+      icon: iconsaba.CedevitaOlimpija,
+    }).addTo(this.map);
+    L.marker([45.8026248886426, 15.963487428223672], {
+      icon: iconsaba.CibonaZagreb,
+    }).addTo(this.map);
+    L.marker([44.814200191949176, 20.421388616545475], {
+      icon: iconsaba.CrvenaZvezda,
+    }).addTo(this.map);
+    L.marker([44.73129745212163, 20.376700943430087], {
+      icon: iconsaba.FMPSoccerbet,
+    }).addTo(this.map);
+    L.marker([44.90742551099624, 17.308192364967073], {
+      icon: iconsaba.Igokea,
+    }).addTo(this.map);
+    L.marker([43.89752441199157, 20.352605370482607], {
+      icon: iconsaba.KKBorac,
+    }).addTo(this.map);
+    L.marker([43.52383254390198, 16.434200712797715], {
+      icon: iconsaba.KKSplit,
+    }).addTo(this.map);
+    L.marker([44.119515895358404, 15.245616483445332], {
+      icon: iconsaba.KKZadar,
+    }).addTo(this.map);
+    L.marker([45.80097685800342, 15.170576960335739], {
+      icon: iconsaba.Krka,
+    }).addTo(this.map);
+    L.marker([44.82766648017078, 20.40632053797916], {
+      icon: iconsaba.MEGAMis,
+    }).addTo(this.map);
+    L.marker([42.10319819279943, 19.09416469555419], {
+      icon: iconsaba.Mornar,
+    }).addTo(this.map);
+    L.marker([44.81418496995902, 20.42108820914276], {
+      icon: iconsaba.Partizan,
+    }).addTo(this.map);
+    L.marker([42.4380822018432, 19.253971187625275], {
+      icon: iconsaba.SCDerby,
+    }).addTo(this.map);
+    //a1ethniki
+    L.marker([38.03783972302466, 23.783965503361536], {
+      icon: iconsa1ethniki.AEK,
     }).addTo(this.map);
   },
   onBeforeUnmount() {
