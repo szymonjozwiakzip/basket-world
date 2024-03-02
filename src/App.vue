@@ -12,6 +12,7 @@ import L from "leaflet";
 import { iconsplk } from "./components/plk_icons.js";
 import { iconsestlat } from "./components/est-lat_icons.js";
 import { iconslkllietuva } from "./components/lkllietuva_icons.js";
+import { iconsbbl } from "./components/bbl_icons.js";
 export default {
   name: "LeafletMap",
   mounted() {
@@ -153,6 +154,7 @@ export default {
     L.marker([54.89163710342457, 23.913454631417682], {
       icon: iconslkllietuva.Zalgris,
     }).addTo(this.map);
+    //bbl
   },
   onBeforeUnmount() {
     if (this.map) {
