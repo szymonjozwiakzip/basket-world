@@ -13,6 +13,7 @@ import { iconsplk } from "./components/plk_icons.js";
 import { iconsestlat } from "./components/est-lat_icons.js";
 import { iconslkllietuva } from "./components/lkllietuva_icons.js";
 import { iconsbbl } from "./components/bbl_icons.js";
+import { iconslnb } from "./components/lnb_icons";
 export default {
   name: "LeafletMap",
   mounted() {
@@ -155,6 +156,64 @@ export default {
       icon: iconslkllietuva.Zalgris,
     }).addTo(this.map);
     //bbl
+    L.marker([52.50633227689836, 13.443810216375322], {
+      icon: iconsbbl.AlbaBerlin,
+    }).addTo(this.map);
+    L.marker([49.88458306807112, 10.924411911944555], {
+      icon: iconsbbl.BambergBaskets,
+    }).addTo(this.map);
+    L.marker([48.12611873910997, 11.52549554262775], {
+      icon: iconsbbl.BayernMunchen,
+    }).addTo(this.map);
+    L.marker([51.54210157826229, 9.92139340545021], {
+      icon: iconsbbl.BGGottingen,
+    }).addTo(this.map);
+    L.marker([52.27596151985068, 10.51633687566982], {
+      icon: iconsbbl.Braunschweig,
+    }).addTo(this.map);
+    L.marker([53.1442558703358, 8.23531440153021], {
+      icon: iconsbbl.EWEOldenburg,
+    }).addTo(this.map);
+    L.marker([49.140947235984896, 10.078468013008495], {
+      icon: iconsbbl.HAKROMerlins,
+    }).addTo(this.map);
+    L.marker([53.49568635462597, 10.002788547574804], {
+      icon: iconsbbl.HamburgTowers,
+    }).addTo(this.map);
+    L.marker([48.89212715105839, 9.18359966458041], {
+      icon: iconsbbl.MHPRiesen,
+    }).addTo(this.map);
+    L.marker([49.40563561514922, 8.68749836089941], {
+      icon: iconsbbl.MLPAcademics,
+    }).addTo(this.map);
+    L.marker([50.81325387152095, 12.913729330896558], {
+      icon: iconsbbl.NINERSChemnitz,
+    }).addTo(this.map);
+    L.marker([52.733787320816866, 8.261826037895101], {
+      icon: iconsbbl.RastaVechta,
+    }).addTo(this.map);
+    L.marker([48.38273877272157, 10.006518965479223], {
+      icon: iconsbbl.RatiopharmUlm,
+    }).addTo(this.map);
+    L.marker([54.09315890632362, 12.144284740102428], {
+      icon: iconsbbl.RostockSeawolves,
+    }).addTo(this.map);
+    L.marker([51.20172420651504, 11.957080563360316], {
+      icon: iconsbbl.SyntainicsMBC,
+    }).addTo(this.map);
+    L.marker([50.70513198744374, 7.060389893488712], {
+      icon: iconsbbl.TelekomBaskets,
+    }).addTo(this.map);
+    L.marker([48.51110204807759, 9.04212355723048], {
+      icon: iconsbbl.TigersTubingen,
+    }).addTo(this.map);
+    L.marker([49.773417528978314, 9.941378772555929], {
+      icon: iconsbbl.WurzburgBaskets,
+    }).addTo(this.map);
+    //lnb
+    L.marker([47.60147519087981, 1.3291299434366033], {
+      icon: iconslnb.Blois,
+    }).addTo(this.map);
   },
   onBeforeUnmount() {
     if (this.map) {

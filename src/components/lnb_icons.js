@@ -8,7 +8,7 @@ import Dunquerque from "../assets/lnb/Dunquerque.png";
 import LeMans from "../assets/lnb/LeMans.png";
 import LePortel from "../assets/lnb/LePortel.png";
 import Limoges from "../assets/lnb/Limoges.png";
-import LyonVilleurbanne from "../assets/lnb/LyonVilleurbane.png";
+import LyonVilleurbanne from "../assets/lnb/LyonVilleurbanne.png";
 import Metropolitans from "../assets/lnb/Metropolitans.png";
 import Monaco from "../assets/lnb/Monaco.png";
 import Nancy from "../assets/lnb/Nancy.png";
