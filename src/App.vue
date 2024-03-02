@@ -11,6 +11,7 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import { iconsplk } from "./components/plk_icons.js";
 import { iconsestlat } from "./components/est-lat_icons.js";
+import { iconslkllietuva } from "./components/lkllietuva_icons.js";
 export default {
   name: "LeafletMap",
   mounted() {
@@ -117,6 +118,40 @@ export default {
     }).addTo(this.map);
     L.marker([59.51012210813956, 24.82858143945512], {
       icon: iconsestlat.Viimsi,
+    }).addTo(this.map);
+    //lkllietuva
+    L.marker([55.076782003202474, 24.273524480179873], {
+      icon: iconslkllietuva.Jonava,
+    }).addTo(this.map);
+    L.marker([55.73323356497018, 24.339455464493884], {
+      icon: iconslkllietuva.Lietkabelis,
+    }).addTo(this.map);
+    L.marker([56.30107333209395, 22.331789308531462], {
+      icon: iconslkllietuva.Mazeikiu,
+    }).addTo(this.map);
+    L.marker([55.69238786908371, 21.155167447669523], {
+      icon: iconslkllietuva.NeptunasKlaipeda,
+    }).addTo(this.map);
+    L.marker([55.29478195671947, 23.982798987678844], {
+      icon: iconslkllietuva.Nevezis,
+    }).addTo(this.map);
+    L.marker([56.06160790685852, 24.41362966346387], {
+      icon: iconslkllietuva.Pasvalio,
+    }).addTo(this.map);
+    L.marker([54.71899363827523, 25.28798560637417], {
+      icon: iconslkllietuva.Rytas,
+    }).addTo(this.map);
+    L.marker([55.922855834298424, 23.285268597591905], {
+      icon: iconslkllietuva.Siauliai,
+    }).addTo(this.map);
+    L.marker([55.50394289676067, 25.593068517236453], {
+      icon: iconslkllietuva.UtenosJuventus,
+    }).addTo(this.map);
+    L.marker([54.68713260550191, 25.27930796912465], {
+      icon: iconslkllietuva.VilniausWolves,
+    }).addTo(this.map);
+    L.marker([54.89163710342457, 23.913454631417682], {
+      icon: iconslkllietuva.Zalgris,
     }).addTo(this.map);
   },
   onBeforeUnmount() {

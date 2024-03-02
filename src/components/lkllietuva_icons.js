@@ -8,9 +8,10 @@ import Pasvalio from "../assets/lkllietuva/Pasvalio.svg";
 import Rytas from "../assets/lkllietuva/Rytas.svg";
 import Siauliai from "../assets/lkllietuva/Siauliai.svg";
 import UtenosJuventus from "../assets/lkllietuva/UtenosJuventus.svg";
+import VilniausWolves from "../assets/lkllietuva/VilniausWolves.svg";
 import Zalgris from "../assets/lkllietuva/Zalgris.svg";
 
-export const iconsestlat = {
+export const iconslkllietuva = {
   Jonava: L.icon({
     iconUrl: Jonava,
     iconSize: [32, 32],
