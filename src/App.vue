@@ -19,6 +19,9 @@ import { iconsfpb } from "./components/fpb_icons.js";
 import { iconslegabasketa } from "./components/legabasketa_icons.js";
 import { iconsaba } from "./components/aba_icons.js";
 import { iconsa1ethniki } from "./components/a1ethniki_icons.js";
+import { iconsaleaguehungary } from "./components/aleaguehungary_icons.js";
+import { iconsbasketbolsuperligi } from "./components/basketbolsuperligi_icons.js";
+import { iconsisraelsuperleague } from "./components/israelsuperleague_icons.js";
 
 export default {
   name: "LeafletMap",
@@ -493,6 +496,137 @@ export default {
       icon: iconsa1ethniki.Promitheas,
     }).addTo(this.map);
     //a league hungary
+    L.marker([47.19134650000981, 18.419580299121318], {
+      icon: iconsaleaguehungary.AlbaFehervar,
+    }).addTo(this.map);
+    L.marker([46.61702660978278, 18.83638926839855], {
+      icon: iconsaleaguehungary.Atomeromu,
+    }).addTo(this.map);
+    L.marker([47.48265973447064, 19.09241571027051], {
+      icon: iconsaleaguehungary.BudapestHonved,
+    }).addTo(this.map);
+    L.marker([47.55044339090622, 21.634313953102442], {
+      icon: iconsaleaguehungary.DEAC,
+    }).addTo(this.map);
+    L.marker([46.90125460169502, 19.674278991683394], {
+      icon: iconsaleaguehungary.DunaAszfalt,
+    }).addTo(this.map);
+    L.marker([47.014560903892004, 16.594364147427598], {
+      icon: iconsaleaguehungary.EgisKormend,
+    }).addTo(this.map);
+    L.marker([47.24329494050044, 16.619249124249386], {
+      icon: iconsaleaguehungary.FalcoSzombathely,
+    }).addTo(this.map);
+    L.marker([46.36950024218537, 17.794025237693198], {
+      icon: iconsaleaguehungary.KaposvariKK,
+    }).addTo(this.map);
+    L.marker([46.05347361314222, 18.211859656733896], {
+      icon: iconsaleaguehungary.NKAPecs,
+    }).addTo(this.map);
+    L.marker([47.48648727425309, 18.316735456810115], {
+      icon: iconsaleaguehungary.OSELions,
+    }).addTo(this.map);
+    L.marker([47.69245443625958, 16.582921499148263], {
+      icon: iconsaleaguehungary.SopronKC,
+    }).addTo(this.map);
+    L.marker([47.169269340342375, 20.197454768428006], {
+      icon: iconsaleaguehungary.SzolnokiOlajbanyasz,
+    }).addTo(this.map);
+    L.marker([46.244582250556846, 20.163081366523173], {
+      icon: iconsaleaguehungary.SZTESzedak,
+    }).addTo(this.map);
+    L.marker([47.33507621323904, 17.47190560098458], {
+      icon: iconsaleaguehungary.Zalakeramia,
+    }).addTo(this.map);
+    //Basketbol Super Ligi
+    L.marker([40.988705561179984, 28.853853466533785], {
+      icon: iconsbasketbolsuperligi.AnadoluEfes,
+    }).addTo(this.map);
+    L.marker([39.79831662856119, 30.43688207390633], {
+      icon: iconsbasketbolsuperligi.Bahcesehir,
+    }).addTo(this.map);
+    L.marker([41.08697024426911, 29.02309781257313], {
+      icon: iconsbasketbolsuperligi.Besiktas,
+    }).addTo(this.map);
+    L.marker([40.2273985108079, 28.971982545085687], {
+      icon: iconsbasketbolsuperligi.Bursaspor,
+    }).addTo(this.map);
+    L.marker([41.026904583656204, 28.591223399079837], {
+      icon: iconsbasketbolsuperligi.Buyukcekmece,
+    }).addTo(this.map);
+    L.marker([41.12633224997248, 29.029171494863178], {
+      icon: iconsbasketbolsuperligi.Darussafaka,
+    }).addTo(this.map);
+    L.marker([40.992998335793445, 29.10486214140579], {
+      icon: iconsbasketbolsuperligi.Fenerbahce,
+    }).addTo(this.map);
+    L.marker([40.988567885812756, 28.85369253398917], {
+      icon: iconsbasketbolsuperligi.Galatasaray,
+    }).addTo(this.map);
+    L.marker([37.02319773394598, 37.35249792437553], {
+      icon: iconsbasketbolsuperligi.Gaziantep,
+    }).addTo(this.map);
+    L.marker([38.47447227072278, 27.076205639460113], {
+      icon: iconsbasketbolsuperligi.Karsiyaka,
+    }).addTo(this.map);
+    L.marker([37.92156196066834, 32.496601422241476], {
+      icon: iconsbasketbolsuperligi.Konyaspor,
+    }).addTo(this.map);
+    L.marker([38.649955488032134, 27.34647282679318], {
+      icon: iconsbasketbolsuperligi.Manisa,
+    }).addTo(this.map);
+    L.marker([37.73930336285629, 29.094442512452304], {
+      icon: iconsbasketbolsuperligi.Merkezefendi,
+    }).addTo(this.map);
+    L.marker([38.79492872382227, 26.965416879944737], {
+      icon: iconsbasketbolsuperligi.Petkim,
+    }).addTo(this.map);
+    L.marker([40.22749680669392, 28.97170359534168], {
+      icon: iconsbasketbolsuperligi.TofasBursa,
+    }).addTo(this.map);
+    L.marker([39.93769524526624, 32.84393418976874], {
+      icon: iconsbasketbolsuperligi.TurkTelekom,
+    }).addTo(this.map);
+    //Israel Super League
+    L.marker([32.62639936834863, 35.31972962392421], {
+      icon: iconsisraelsuperleague.HapoelAfula,
+    }).addTo(this.map);
+    L.marker([31.271829363266715, 34.77789455828343], {
+      icon: iconsisraelsuperleague.HapoelBeerSheva,
+    }).addTo(this.map);
+    L.marker([29.558967213902637, 34.952260295231355], {
+      icon: iconsisraelsuperleague.HapoelEilat,
+    }).addTo(this.map);
+    L.marker([33.172561382637774, 35.60797572876204], {
+      icon: iconsisraelsuperleague.HapoelGalil,
+    }).addTo(this.map);
+    L.marker([32.7877570541221, 34.997086025783204], {
+      icon: iconsisraelsuperleague.HapoelHaifa,
+    }).addTo(this.map);
+    L.marker([32.00232596239066, 34.79747769692353], {
+      icon: iconsisraelsuperleague.HapoelHolon,
+    }).addTo(this.map);
+    L.marker([32.109275924798155, 34.810733239253935], {
+      icon: iconsisraelsuperleague.HapoelSholmo,
+    }).addTo(this.map);
+    L.marker([31.75124498880938, 35.19414283924372], {
+      icon: iconsisraelsuperleague.HapoelYerusalem,
+    }).addTo(this.map);
+    L.marker([32.1736604239271, 34.83326342391082], {
+      icon: iconsisraelsuperleague.Herzeliya,
+    }).addTo(this.map);
+    L.marker([32.04688038886558, 34.81451761041604], {
+      icon: iconsisraelsuperleague.Ironi,
+    }).addTo(this.map);
+    L.marker([32.80739553384244, 35.11030811618479], {
+      icon: iconsisraelsuperleague.IroniKiryat,
+    }).addTo(this.map);
+    L.marker([31.93138742037242, 34.811498174159645], {
+      icon: iconsisraelsuperleague.IroniNessZiona,
+    }).addTo(this.map);
+    L.marker([32.06111549167566, 34.79139299665407], {
+      icon: iconsisraelsuperleague.Maccabi,
+    }).addTo(this.map);
   },
   onBeforeUnmount() {
     if (this.map) {

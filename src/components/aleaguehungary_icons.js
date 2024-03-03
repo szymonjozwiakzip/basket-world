@@ -1,12 +1,12 @@
 import L from "leaflet";
 import AlbaFehervar from "../assets/aleaguehungary/AlbaFehervar.png";
 import Atomeromu from "../assets/aleaguehungary/Atomeromu.png";
-import BudapestHonved from "../assets/aleaguehungary/BudapestHonved.png";
+import BudapestHonved from "../assets/aleaguehungary/BudapestiHonved.png";
 import DEAC from "../assets/aleaguehungary/DEAC.png";
 import DunaAszfalt from "../assets/aleaguehungary/DunaAszfalt.png";
 import EgisKormend from "../assets/aleaguehungary/EgisKormend.png";
 import FalcoSzombathely from "../assets/aleaguehungary/FalcoSzombathely.png";
-import KapsovariKK from "../assets/aleaguehungary/KapsovariKK.png";
+import KaposvariKK from "../assets/aleaguehungary/KaposvariKK.png";
 import NKAPecs from "../assets/aleaguehungary/NKAPecs.png";
 import OSELions from "../assets/aleaguehungary/OSELions.png";
 import SopronKC from "../assets/aleaguehungary/SopronKC.png";
@@ -50,8 +50,8 @@ export const iconsaleaguehungary = {
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  KapsovariKK: L.icon({
-    iconUrl: KapsovariKK,
+  KaposvariKK: L.icon({
+    iconUrl: KaposvariKK,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),

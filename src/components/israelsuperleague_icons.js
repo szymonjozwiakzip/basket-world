@@ -1,7 +1,7 @@
 import L from "leaflet";
 import HapoelAfula from "../assets/israelsuperleague/HapoelAfula.png";
 import HapoelBeerSheva from "../assets/israelsuperleague/HapoelBeerSheva.png";
-import HapoelEliat from "../assets/israelsuperleague/HapoelEliat.png";
+import HapoelEilat from "../assets/israelsuperleague/HapoelEilat.png";
 import HapoelHolon from "../assets/israelsuperleague/HapoelHolon.png";
 import HapoelGalil from "../assets/israelsuperleague/HapoelGalil.png";
 import HapoelHaifa from "../assets/israelsuperleague/HapoelHaifa.png";
@@ -24,8 +24,8 @@ export const iconsisraelsuperleague = {
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  HapoelEliat: L.icon({
-    iconUrl: HapoelEliat,
+  HapoelEilat: L.icon({
+    iconUrl: HapoelEilat,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
