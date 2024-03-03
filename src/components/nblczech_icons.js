@@ -10,7 +10,7 @@ import Pardubice from "../assets/nblczech/Pardubice.png";
 import SlaviaPraha from "../assets/nblczech/SlaviaPraha.png";
 import Srsni from "../assets/nblczech/Srsni.png";
 import USKPraha from "../assets/nblczech/USKPraha.png";
-import UsiNadLabem from "../assets/nblczech/UsiNadLabem.png";
+import UstiNadLabem from "../assets/nblczech/UstiNadLabem.png";
 
 export const iconsnblczech = {
   BasketBrno: L.icon({
@@ -68,8 +68,8 @@ export const iconsnblczech = {
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  UsiNadLabem: L.icon({
-    iconUrl: UsiNadLabem,
+  UstiNadLabem: L.icon({
+    iconUrl: UstiNadLabem,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),

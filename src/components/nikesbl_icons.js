@@ -1,75 +1,57 @@
 import L from "leaflet";
-import BasketBrno from "../assets/nblczech/BasketBrno.png";
-import BCKolin from "../assets/nblczech/BCKolin.png";
-import BKDecin from "../assets/nblczech/BKDecin.png";
-import BKOlomoucko from "../assets/nblczech/BKOlomoucko.png";
-import BKOpava from "../assets/nblczech/BKOpava.png";
-import EraNymburk from "../assets/nblczech/EraNymburk.png";
-import NHOstrava from "../assets/nblczech/NHOstrava.png";
-import Pardubice from "../assets/nblczech/Pardubice.png";
-import SlaviaPraha from "../assets/nblczech/SlaviaPraha.png";
-import Srsni from "../assets/nblczech/Srsni.png";
-import USKPraha from "../assets/nblczech/USKPraha.png";
-import UsiNadLabem from "../assets/nblczech/UsiNadLabem.png";
+import BanikHandlova from "../assets/nikesbl/BanikHandlova.png";
+import BCKomarno from "../assets/nikesbl/BCKomarno.png";
+import BKMLucenec from "../assets/nikesbl/BKMLucenec.png";
+import InterBratislava from "../assets/nikesbl/InterBratislava.png";
+import IskraSvit from "../assets/nikesbl/IskraSvit.png";
+import PatriotiLevice from "../assets/nikesbl/PatriotiLevice.png";
+import Prievidza from "../assets/nikesbl/Prievidza.png";
+import SlaviaNitra from "../assets/nikesbl/SlaviaNitra.png";
+import SpisskiRytieri from "../assets/nikesbl/SpisskiRytieri.png";
 
-export const iconsnblczech = {
-  BasketBrno: L.icon({
-    iconUrl: BasketBrno,
+export const iconsnikesbl = {
+  BanikHandlova: L.icon({
+    iconUrl: BanikHandlova,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  BCKolin: L.icon({
-    iconUrl: BCKolin,
+  BCKomarno: L.icon({
+    iconUrl: BCKomarno,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  BKDecin: L.icon({
-    iconUrl: BKDecin,
+  BKMLucenec: L.icon({
+    iconUrl: BKMLucenec,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  BKOlomoucko: L.icon({
-    iconUrl: BKOlomoucko,
+  InterBratislava: L.icon({
+    iconUrl: InterBratislava,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  BKOpava: L.icon({
-    iconUrl: BKOpava,
+  IskraSvit: L.icon({
+    iconUrl: IskraSvit,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  EraNymburk: L.icon({
-    iconUrl: EraNymburk,
+  PatriotiLevice: L.icon({
+    iconUrl: PatriotiLevice,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  NHOstrava: L.icon({
-    iconUrl: NHOstrava,
+  Prievidza: L.icon({
+    iconUrl: Prievidza,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  Pardubice: L.icon({
-    iconUrl: Pardubice,
+  SlaviaNitra: L.icon({
+    iconUrl: SlaviaNitra,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
-  SlaviaPraha: L.icon({
-    iconUrl: SlaviaPraha,
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
-  }),
-  Srsni: L.icon({
-    iconUrl: Srsni,
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
-  }),
-  USKPraha: L.icon({
-    iconUrl: USKPraha,
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
-  }),
-  UsiNadLabem: L.icon({
-    iconUrl: UsiNadLabem,
+  SpisskiRytieri: L.icon({
+    iconUrl: SpisskiRytieri,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),

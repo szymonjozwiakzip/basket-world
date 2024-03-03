@@ -3,7 +3,7 @@ import BristolFlyers from "../assets/britishbl/BristolFlyers.png";
 import CaledoniaGladiators from "../assets/britishbl/CaledoniaGladiators.png";
 import Cheshire from "../assets/britishbl/Cheshire.png";
 import LeicesterRiders from "../assets/britishbl/LeicesterRiders.png";
-import LondonLions from "../assets/britishbl/LondonLions.png";
+import LondonLions from "../assets/britishbl/LondonLions.jpg";
 import ManchesterGiants from "../assets/britishbl/ManchesterGiants.png";
 import NewcastleEagles from "../assets/britishbl/NewcastleEagles.png";
 import Patriots from "../assets/britishbl/Patriots.png";

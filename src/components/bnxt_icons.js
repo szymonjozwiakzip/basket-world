@@ -73,6 +73,11 @@ export const iconsbnxt = {
     iconSize: [32, 32],
     iconAnchor: [16, 16],
   }),
+  TalentsSpurs: L.icon({
+    iconUrl: TalentsSpurs,
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+  }),
   DonarGronningen: L.icon({
     iconUrl: DonarGronningen,
     iconSize: [32, 32],

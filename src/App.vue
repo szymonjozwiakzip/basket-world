@@ -22,6 +22,11 @@ import { iconsa1ethniki } from "./components/a1ethniki_icons.js";
 import { iconsaleaguehungary } from "./components/aleaguehungary_icons.js";
 import { iconsbasketbolsuperligi } from "./components/basketbolsuperligi_icons.js";
 import { iconsisraelsuperleague } from "./components/israelsuperleague_icons.js";
+import { iconsdiviziaaromania } from "./components/diviziaaromania_icons.js";
+import { iconsbritishbl } from "./components/britishbl_icons.js";
+import { iconsbnxt } from "./components/bnxt_icons.js";
+import { iconsnblczech } from "./components/nblczech_icons.js";
+import { iconsnikesbl } from "./components/nikesbl_icons.js";
 
 export default {
   name: "LeafletMap",
@@ -627,6 +632,194 @@ export default {
     L.marker([32.06111549167566, 34.79139299665407], {
       icon: iconsisraelsuperleague.Maccabi,
     }).addTo(this.map);
+    //Divizia A Romania
+    L.marker([44.83959406284955, 24.89388943970213], {
+      icon: iconsdiviziaaromania.ArgesPitesti,
+    }).addTo(this.map);
+    L.marker([45.66030017258059, 25.617986482063216], {
+      icon: iconsdiviziaaromania.Brasov,
+    }).addTo(this.map);
+    L.marker([44.18436804612257, 28.653378966369417], {
+      icon: iconsdiviziaaromania.Constanta,
+    }).addTo(this.map);
+    L.marker([47.04610043895392, 21.913765487683772], {
+      icon: iconsdiviziaaromania.CSMOradea,
+    }).addTo(this.map);
+    L.marker([44.45399839593747, 26.104109224341368], {
+      icon: iconsdiviziaaromania.DinamoBucharest,
+    }).addTo(this.map);
+    L.marker([44.45674390272354, 26.055703496529084], {
+      icon: iconsdiviziaaromania.RapidBucuresti,
+    }).addTo(this.map);
+    L.marker([45.797091821187564, 24.144985348557462], {
+      icon: iconsdiviziaaromania.Sibiu,
+    }).addTo(this.map);
+    L.marker([46.53420251396902, 24.55374490389455], {
+      icon: iconsdiviziaaromania.TarguMures,
+    }).addTo(this.map);
+    L.marker([44.512486022496944, 26.14065125593377], {
+      icon: iconsdiviziaaromania.Voluntari,
+    }).addTo(this.map);
+    L.marker([46.767261408662925, 23.570278826291123], {
+      icon: iconsdiviziaaromania.ClujNapoca,
+    }).addTo(this.map);
+    //British BL
+    L.marker([51.51241383530992, -2.555012954028108], {
+      icon: iconsbritishbl.BristolFlyers,
+    }).addTo(this.map);
+    L.marker([55.78125767375908, -4.173169488642522], {
+      icon: iconsbritishbl.CaledoniaGladiators,
+    }).addTo(this.map);
+    L.marker([53.2662653242798, -2.8934253697097105], {
+      icon: iconsbritishbl.Cheshire,
+    }).addTo(this.map);
+    L.marker([52.643816364078866, -1.1307026390484625], {
+      icon: iconsbritishbl.LeicesterRiders,
+    }).addTo(this.map);
+    L.marker([51.54433373362909, -0.020161923242150916], {
+      icon: iconsbritishbl.LondonLions,
+    }).addTo(this.map);
+    L.marker([53.460066523394964, -2.191188073408877], {
+      icon: iconsbritishbl.ManchesterGiants,
+    }).addTo(this.map);
+    L.marker([54.96364071342209, -1.6374035156643814], {
+      icon: iconsbritishbl.NewcastleEagles,
+    }).addTo(this.map);
+    L.marker([50.36843665120712, -4.1502485023879085], {
+      icon: iconsbritishbl.Patriots,
+    }).addTo(this.map);
+    L.marker([51.23534267719627, -0.6071534311849138], {
+      icon: iconsbritishbl.Scorchers,
+    }).addTo(this.map);
+    L.marker([53.3946250198886, -1.42559952923043], {
+      icon: iconsbritishbl.SheffieldSharks,
+    }).addTo(this.map);
+    //BNXT
+    L.marker([50.45031901809368, 3.875464205815603], {
+      icon: iconsbnxt.Belfius,
+    }).addTo(this.map);
+    L.marker([50.89258714166866, 4.376819397635821], {
+      icon: iconsbnxt.BrusselsBasketball,
+    }).addTo(this.map);
+    L.marker([51.21746587175197, 2.8878980860136485], {
+      icon: iconsbnxt.FilouOostende,
+    }).addTo(this.map);
+    L.marker([51.23723200258558, 4.440459239978861], {
+      icon: iconsbnxt.GiantsAntwerp,
+    }).addTo(this.map);
+    L.marker([51.03119074511298, 4.46574860135037], {
+      icon: iconsbnxt.KangoeroesMechelen,
+    }).addTo(this.map);
+    L.marker([50.91103530309252, 4.712930221175686], {
+      icon: iconsbnxt.LeuvenBears,
+    }).addTo(this.map);
+    L.marker([50.57745380572556, 5.550969570639341], {
+      icon: iconsbnxt.LiegeBasket,
+    }).addTo(this.map);
+    L.marker([50.93894165018119, 5.320526357164662], {
+      icon: iconsbnxt.LimburgUnited,
+    }).addTo(this.map);
+    L.marker([50.93988129920526, 4.054730412983153], {
+      icon: iconsbnxt.Okapiaalst,
+    }).addTo(this.map);
+    L.marker([50.44669399053546, 4.43922970688638], {
+      icon: iconsbnxt.SpirouBasket,
+    }).addTo(this.map);
+    L.marker([50.806255231905865, 3.300692514831252], {
+      icon: iconsbnxt.TalentsSpurs,
+    }).addTo(this.map);
+    L.marker([53.20266964230319, 6.5553969689063285], {
+      icon: iconsbnxt.DonarGronningen,
+    }).addTo(this.map);
+    L.marker([51.89395962357702, 4.526298740009007], {
+      icon: iconsbnxt.Feyenoord,
+    }).addTo(this.map);
+    L.marker([52.94504285213182, 4.76705098423948], {
+      icon: iconsbnxt.HelderSuns,
+    }).addTo(this.map);
+    L.marker([51.72270162569572, 5.315588930730357], {
+      icon: iconsbnxt.HeroesDenBosch,
+    }).addTo(this.map);
+    L.marker([52.52217630821236, 6.12243230934771], {
+      icon: iconsbnxt.LandstedeHammers,
+    }).addTo(this.map);
+    L.marker([51.25731787079635, 5.692557487869663], {
+      icon: iconsbnxt.Limburg,
+    }).addTo(this.map);
+    L.marker([53.211372572253296, 5.8254166670526155], {
+      icon: iconsbnxt.LWDBasket,
+    }).addTo(this.map);
+    L.marker([52.16659974434661, 4.510949805003543], {
+      icon: iconsbnxt.YoastUnited,
+    }).addTo(this.map);
+    L.marker([52.15010082044637, 4.475391699547663], {
+      icon: iconsbnxt.ZZLeiden,
+    }).addTo(this.map);
+    //NBL Czech
+    L.marker([49.19401761189462, 16.609169364735404], {
+      icon: iconsnblczech.BasketBrno,
+    }).addTo(this.map);
+    L.marker([50.02136125571996, 15.20871014287493], {
+      icon: iconsnblczech.BCKolin,
+    }).addTo(this.map);
+    L.marker([50.78151854708998, 14.21684780926773], {
+      icon: iconsnblczech.BKDecin,
+    }).addTo(this.map);
+    L.marker([49.48457778132458, 17.104150128263097], {
+      icon: iconsnblczech.BKOlomoucko,
+    }).addTo(this.map);
+    L.marker([49.949634935706825, 17.884483517158753], {
+      icon: iconsnblczech.BKOpava,
+    }).addTo(this.map);
+    L.marker([50.17864101845799, 15.0611813734873], {
+      icon: iconsnblczech.EraNymburk,
+    }).addTo(this.map);
+    L.marker([49.833745009201216, 18.281014085951202], {
+      icon: iconsnblczech.NHOstrava,
+    }).addTo(this.map);
+    L.marker([50.0402915773839, 15.76938793807058], {
+      icon: iconsnblczech.Pardubice,
+    }).addTo(this.map);
+    L.marker([50.068681928788806, 14.477555565053958], {
+      icon: iconsnblczech.SlaviaPraha,
+    }).addTo(this.map);
+    L.marker([49.31035509331072, 14.149707628255273], {
+      icon: iconsnblczech.Srsni,
+    }).addTo(this.map);
+    L.marker([50.06699095115539, 14.432129431364048], {
+      icon: iconsnblczech.USKPraha,
+    }).addTo(this.map);
+    L.marker([50.6649937762732, 14.012745420899304], {
+      icon: iconsnblczech.UstiNadLabem,
+    }).addTo(this.map);
+    //nikesbl
+    L.marker([48.72982115196431, 18.76987087578125], {
+      icon: iconsnikesbl.BanikHandlova,
+    }).addTo(this.map);
+    L.marker([47.76247084401153, 18.124112476259974], {
+      icon: iconsnikesbl.BCKomarno,
+    }).addTo(this.map);
+    L.marker([48.33068306984282, 19.669046541703366], {
+      icon: iconsnikesbl.BKMLucenec,
+    }).addTo(this.map);
+    L.marker([48.162371740359816, 17.141334041696098], {
+      icon: iconsnikesbl.InterBratislava,
+    }).addTo(this.map);
+    L.marker([49.056552848192496, 20.20015589940769], {
+      icon: iconsnikesbl.IskraSvit,
+    }).addTo(this.map);
+    L.marker([48.2205439712563, 18.59739009751701], {
+      icon: iconsnikesbl.PatriotiLevice,
+    }).addTo(this.map);
+    L.marker([48.77362748215197, 18.623992535870276], {
+      icon: iconsnikesbl.Prievidza,
+    }).addTo(this.map);
+    L.marker([48.30877965527305, 18.078254250876896], {
+      icon: iconsnikesbl.SlaviaNitra,
+    }).addTo(this.map);
+    L.marker([48.944007785007, 20.56129373200692], {
+      icon: iconsnikesbl.SpisskiRytieri,
+    }).addTo(this.map);
   },
   onBeforeUnmount() {
     if (this.map) {
@@ -645,3 +838,5 @@ export default {
   display: flex;
 }
 </style>
+import { iconsnblczech } from "./components/nblczech_icons.js";import {
+iconsnikesbl } from "./components/nikesbl_icons.js";
