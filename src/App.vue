@@ -459,6 +459,39 @@ export default {
     L.marker([38.03783972302466, 23.783965503361536], {
       icon: iconsa1ethniki.AEK,
     }).addTo(this.map);
+    L.marker([38.20868232038584, 21.764142613892865], {
+      icon: iconsa1ethniki.Apollon,
+    }).addTo(this.map);
+    L.marker([40.62687322823856, 22.957393741534062], {
+      icon: iconsa1ethniki.Aris,
+    }).addTo(this.map);
+    L.marker([39.35929667905996, 21.904889020597455], {
+      icon: iconsa1ethniki.Karditsas,
+    }).addTo(this.map);
+    L.marker([36.448154825638255, 28.224828791133554], {
+      icon: iconsa1ethniki.Kolossos,
+    }).addTo(this.map);
+    L.marker([37.716629354952396, 24.050125180067997], {
+      icon: iconsa1ethniki.Lavrio,
+    }).addTo(this.map);
+    L.marker([38.040736098569624, 23.799304070278065], {
+      icon: iconsa1ethniki.Maroussi,
+    }).addTo(this.map);
+    L.marker([37.94287441449622, 23.66730611446267], {
+      icon: iconsa1ethniki.Olympiacos,
+    }).addTo(this.map);
+    L.marker([38.03784924251713, 23.784950529743842], {
+      icon: iconsa1ethniki.Panathinaikos,
+    }).addTo(this.map);
+    L.marker([40.56553942399688, 22.981374110845543], {
+      icon: iconsa1ethniki.PAOK,
+    }).addTo(this.map);
+    L.marker([38.028239886056646, 23.67887361076415], {
+      icon: iconsa1ethniki.Peristeri,
+    }).addTo(this.map);
+    L.marker([38.28397563358128, 21.773586387488226], {
+      icon: iconsa1ethniki.Promitheas,
+    }).addTo(this.map);
   },
   onBeforeUnmount() {
     if (this.map) {
