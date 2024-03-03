@@ -492,6 +492,7 @@ export default {
     L.marker([38.28397563358128, 21.773586387488226], {
       icon: iconsa1ethniki.Promitheas,
     }).addTo(this.map);
+    //a league hungary
   },
   onBeforeUnmount() {
     if (this.map) {
