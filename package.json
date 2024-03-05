@@ -17,7 +17,8 @@
     "leaflet": "^1.9.4",
     "sass": "^1.71.1",
     "sass-loader": "^14.1.1",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

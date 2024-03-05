@@ -5,24 +5,24 @@
 <script>
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import { iconsplk } from "./plk_icons.js";
-import { iconsestlat } from "./est-lat_icons.js";
-import { iconslkllietuva } from "./lkllietuva_icons.js";
-import { iconsbbl } from "./bbl_icons.js";
-import { iconslnb } from "./lnb_icons.js";
-import { iconsacb } from "./acb_icons.js";
-import { iconsfpb } from "./fpb_icons.js";
-import { iconslegabasketa } from "./legabasketa_icons.js";
-import { iconsaba } from "./aba_icons.js";
-import { iconsa1ethniki } from "./a1ethniki_icons.js";
-import { iconsaleaguehungary } from "./aleaguehungary_icons.js";
-import { iconsbasketbolsuperligi } from "./basketbolsuperligi_icons.js";
-import { iconsisraelsuperleague } from "./israelsuperleague_icons.js";
-import { iconsdiviziaaromania } from "./diviziaaromania_icons.js";
-import { iconsbritishbl } from "./britishbl_icons.js";
-import { iconsbnxt } from "./bnxt_icons.js";
-import { iconsnblczech } from "./nblczech_icons.js";
-import { iconsnikesbl } from "./nikesbl_icons.js";
+import { iconsplk } from "./LeagueMarkers/plk_icons.js";
+import { iconsestlat } from "./LeagueMarkers/est-lat_icons.js";
+import { iconslkllietuva } from "./LeagueMarkers/lkllietuva_icons.js";
+import { iconsbbl } from "./LeagueMarkers/bbl_icons.js";
+import { iconslnb } from "./LeagueMarkers/lnb_icons.js";
+import { iconsacb } from "./LeagueMarkers/acb_icons.js";
+import { iconsfpb } from "./LeagueMarkers/fpb_icons.js";
+import { iconslegabasketa } from "./LeagueMarkers/legabasketa_icons.js";
+import { iconsaba } from "./LeagueMarkers/aba_icons.js";
+import { iconsa1ethniki } from "./LeagueMarkers/a1ethniki_icons.js";
+import { iconsaleaguehungary } from "./LeagueMarkers/aleaguehungary_icons.js";
+import { iconsbasketbolsuperligi } from "./LeagueMarkers/basketbolsuperligi_icons.js";
+import { iconsisraelsuperleague } from "./LeagueMarkers/israelsuperleague_icons.js";
+import { iconsdiviziaaromania } from "./LeagueMarkers/diviziaaromania_icons.js";
+import { iconsbritishbl } from "./LeagueMarkers/britishbl_icons.js";
+import { iconsbnxt } from "./LeagueMarkers/bnxt_icons.js";
+import { iconsnblczech } from "./LeagueMarkers/nblczech_icons.js";
+import { iconsnikesbl } from "./LeagueMarkers/nikesbl_icons.js";
 
 export default {
   name: "LeafletMap",

@@ -30,13 +30,45 @@
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              Dropdown
+              Leagues
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">A1 Ethniki</a></li>
+              <li><a class="dropdown-item" href="#">ABA</a></li>
+              <li><a class="dropdown-item" href="#">ACB</a></li>
+              <li>
+                <a class="dropdown-item" href="#">Nemzeti Bajnokság I/A</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">Basketbol Super Ligi</a>
+              </li>
+              <li><a class="dropdown-item" href="#">BBL</a></li>
+              <li><a class="dropdown-item" href="#">BNXT</a></li>
+              <li>
+                <a class="dropdown-item" href="#">British Basket League</a>
+              </li>
+              <li><a class="dropdown-item" href="#">Divizia A</a></li>
+              <li>
+                <a class="dropdown-item" href="#">Estonian-Latvian League</a>
+              </li>
+              <li><a class="dropdown-item" href="#">Israel Super League</a></li>
+              <li><a class="dropdown-item" href="#">Lega Basket A</a></li>
+              <li><a class="dropdown-item" href="#">LKL</a></li>
+              <li><a class="dropdown-item" href="#">Nike SBL</a></li>
+              <li>
+                <router-link class="nav-link" to="/plk"
+                  ><a class="dropdown-item">PLK</a></router-link
+                >
+              </li>
+
               <li><hr class="dropdown-divider" /></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="#">EuroLeague</a></li>
+              <li><a class="dropdown-item" href="#">EuroCup</a></li>
+              <li>
+                <a class="dropdown-item" href="#"
+                  >FIBA Basketball Champions League</a
+                >
+              </li>
             </ul>
           </li>
           <li class="nav-item">
@@ -64,8 +96,10 @@
 </template>
 
 <script>
+import router from "../router/index.js";
 export default {
   name: "NavigationNavbar",
+  router: router,
 };
 </script>
 
