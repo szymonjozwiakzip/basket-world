@@ -10,12 +10,12 @@ import BNXTView from "../views/Plk.vue";
 import BritishBasketLeagueView from "../views/Plk.vue";
 import DiviziaAView from "../views/Plk.vue";
 import EstonianLatvianView from "../views/Plk.vue";
-import FPBView from "../views/Plk.vue";
-import IsraelSuperLeagueView from "../views/Plk.vue";
-import LegaBasketAView from "../views/Plk.vue";
-import LKLView from "../views/Plk.vue";
-import NBLView from "../views/Plk.vue";
-import NikeSBLView from "../views/Plk.vue";
+import FPBView from "../views/Fpb.vue";
+import IsraelSuperLeagueView from "../views/IsraelSuperLeague.vue";
+import LegaBasketAView from "../views/LegaBasketA.vue";
+import LKLView from "../views/Lkl.vue";
+import NBLView from "../views/Nbl.vue";
+import NikeSBLView from "../views/NikeSBL.vue";
 
 const routes = [
   {

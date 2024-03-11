@@ -16,7 +16,11 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <router-link to="/"
+              ><a class="nav-link active" aria-current="page"
+                >Home</a
+              ></router-link
+            >
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
@@ -54,7 +58,11 @@
               <li><a class="dropdown-item" href="#">Israel Super League</a></li>
               <li><a class="dropdown-item" href="#">Lega Basket A</a></li>
               <li><a class="dropdown-item" href="#">LKL</a></li>
-              <li><a class="dropdown-item" href="#">Nike SBL</a></li>
+              <li>
+                <router-link class="nav-link" to="/nikesbl"
+                  ><a class="dropdown-item">Nike SBL</a></router-link
+                >
+              </li>
               <li>
                 <router-link class="nav-link" to="/plk"
                   ><a class="dropdown-item">PLK</a></router-link
