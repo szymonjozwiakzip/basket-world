@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BKOgre",
+    "latitude": 56.825619547953394,
+    "longitude": 24.61128078230789,
+    "icon": "BKOgre",
+    "league": "EstLat"
+  },
+  {
+    "name": "BKVentspils",
+    "latitude": 57.38651956880989,
+    "longitude": 21.571677577218253,
+    "icon": "BKVentspils",
+    "league": "EstLat"
+  },
+  {
+    "name": "KalevCramo",
+    "latitude": 59.42623503223387,
+    "longitude": 24.647443839821253,
+    "icon": "KalevCramo",
+    "league": "EstLat"
+  },
+  {
+    "name": "KeilaCoolbet",
+    "latitude": 59.31090909278638,
+    "longitude": 24.41524792725715,
+    "icon": "KeilaCoolbet",
+    "league": "EstLat"
+  },
+  {
+    "name": "LatvijasUniversitate",
+    "latitude": 56.95075314668964,
+    "longitude": 24.116696709942264,
+    "icon": "LatvijasUniversitate",
+    "league": "EstLat"
+  },
+  {
+    "name": "Liepaja",
+    "latitude": 56.52383702235258,
+    "longitude": 21.028500124402147,
+    "icon": "Liepaja",
+    "league": "EstLat"
+  },
+  {
+    "name": "ParnuSadam",
+    "latitude": 58.376659050163504,
+    "longitude": 24.532794894943272,
+    "icon": "ParnuSadam",
+    "league": "EstLat"
+  },
+  {
+    "name": "Prometey",
+    "latitude": 48.538067306787454,
+    "longitude": 35.08009117401352,
+    "icon": "Prometey",
+    "league": "EstLat"
+  },
+  {
+    "name": "RigasZelli",
+    "latitude": 56.94967325277611,
+    "longitude": 24.105203635539233,
+    "icon": "RigasZelli",
+    "league": "EstLat"
+  },
+  {
+    "name": "TallinnKalev",
+    "latitude": 59.42771371133274,
+    "longitude": 24.76053210167751,
+    "icon": "TallinnKalev",
+    "league": "EstLat"
+  },
+  {
+    "name": "TalTech",
+    "latitude": 59.39365857888024,
+    "longitude": 24.67948570372652,
+    "icon": "TalTech",
+    "league": "EstLat"
+  },
+  {
+    "name": "TartuUlikool",
+    "latitude": 58.38109194962398,
+    "longitude": 26.719824741126974,
+    "icon": "TartuUlikool",
+    "league": "EstLat"
+  },
+  {
+    "name": "UTILITASRapla",
+    "latitude": 58.99602368674895,
+    "longitude": 24.80149796341459,
+    "icon": "UTILITASRapla",
+    "league": "EstLat"
+  },
+  {
+    "name": "ValmieraGlass",
+    "latitude": 57.52812437790353,
+    "longitude": 25.38903124233461,
+    "icon": "ValmieraGlass",
+    "league": "EstLat"
+  },
+  {
+    "name": "VEFRiga",
+    "latitude": 56.971520913909664,
+    "longitude": 24.157465360027565,
+    "icon": "VEFRiga",
+    "league": "EstLat"
+  },
+  {
+    "name": "Viimsi",
+    "latitude": 59.51012210813956,
+    "longitude": 24.82858143945512,
+    "icon": "Viimsi",
+    "league": "EstLat"
+  }
+]

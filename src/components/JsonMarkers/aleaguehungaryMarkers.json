@@ -1,0 +1,100 @@
+[
+  {
+    "name": "AlbaFehervar",
+    "latitude": 47.19134650000981,
+    "longitude": 18.419580299121318,
+    "icon": "AlbaFehervar",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "Atomeromu",
+    "latitude": 46.61702660978278,
+    "longitude": 18.83638926839855,
+    "icon": "Atomeromu",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "BudapestHonved",
+    "latitude": 47.48265973447064,
+    "longitude": 19.09241571027051,
+    "icon": "BudapestHonved",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "DEAC",
+    "latitude": 47.55044339090622,
+    "longitude": 21.634313953102442,
+    "icon": "DEAC",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "DunaAszfalt",
+    "latitude": 46.90125460169502,
+    "longitude": 19.674278991683394,
+    "icon": "DunaAszfalt",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "EgisKormend",
+    "latitude": 47.014560903892004,
+    "longitude": 16.594364147427598,
+    "icon": "EgisKormend",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "FalcoSzombathely",
+    "latitude": 47.24329494050044,
+    "longitude": 16.619249124249386,
+    "icon": "FalcoSzombathely",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "KaposvariKK",
+    "latitude": 46.36950024218537,
+    "longitude": 17.794025237693198,
+    "icon": "KaposvariKK",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "NKAPecs",
+    "latitude": 46.05347361314222,
+    "longitude": 18.211859656733896,
+    "icon": "NKAPecs",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "OSELions",
+    "latitude": 47.48648727425309,
+    "longitude": 18.316735456810115,
+    "icon": "OSELions",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "SopronKC",
+    "latitude": 47.69245443625958,
+    "longitude": 16.582921499148263,
+    "icon": "SopronKC",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "SzolnokiOlajbanyasz",
+    "latitude": 47.169269340342375,
+    "longitude": 20.197454768428006,
+    "icon": "SzolnokiOlajbanyasz",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "SZTESzedak",
+    "latitude": 46.244582250556846,
+    "longitude": 20.163081366523173,
+    "icon": "SZTESzedak",
+    "league": "ALeagueHungary"
+  },
+  {
+    "name": "Zalakeramia",
+    "latitude": 47.33507621323904,
+    "longitude": 17.47190560098458,
+    "icon": "Zalakeramia",
+    "league": "ALeagueHungary"
+  }
+]

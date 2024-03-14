@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Buducnost",
+    "latitude": 42.43807428388677,
+    "longitude": 19.253949729953654,
+    "icon": "Buducnost",
+    "league": "ABA"
+  },
+  {
+    "name": "CedevitaOlimpija",
+    "latitude": 46.0813735938495,
+    "longitude": 14.521596285905751,
+    "icon": "CedevitaOlimpija",
+    "league": "ABA"
+  },
+  {
+    "name": "CibonaZagreb",
+    "latitude": 45.8026248886426,
+    "longitude": 15.963487428223672,
+    "icon": "CibonaZagreb",
+    "league": "ABA"
+  },
+  {
+    "name": "CrvenaZvezda",
+    "latitude": 44.814200191949176,
+    "longitude": 20.421388616545475,
+    "icon": "CrvenaZvezda",
+    "league": "ABA"
+  },
+  {
+    "name": "FMPSoccerbet",
+    "latitude": 44.73129745212163,
+    "longitude": 20.376700943430087,
+    "icon": "FMPSoccerbet",
+    "league": "ABA"
+  },
+  {
+    "name": "Igokea",
+    "latitude": 44.90742551099624,
+    "longitude": 17.308192364967073,
+    "icon": "Igokea",
+    "league": "ABA"
+  },
+  {
+    "name": "KKBorac",
+    "latitude": 43.89752441199157,
+    "longitude": 20.352605370482607,
+    "icon": "KKBorac",
+    "league": "ABA"
+  },
+  {
+    "name": "KKSplit",
+    "latitude": 43.52383254390198,
+    "longitude": 16.434200712797715,
+    "icon": "KKSplit",
+    "league": "ABA"
+  },
+  {
+    "name": "KKZadar",
+    "latitude": 44.119515895358404,
+    "longitude": 15.245616483445332,
+    "icon": "KKZadar",
+    "league": "ABA"
+  },
+  {
+    "name": "Krka",
+    "latitude": 45.80097685800342,
+    "longitude": 15.170576960335739,
+    "icon": "Krka",
+    "league": "ABA"
+  },
+  {
+    "name": "MEGAMis",
+    "latitude": 44.82766648017078,
+    "longitude": 20.40632053797916,
+    "icon": "MEGAMis",
+    "league": "ABA"
+  },
+  {
+    "name": "Mornar",
+    "latitude": 42.10319819279943,
+    "longitude": 19.09416469555419,
+    "icon": "Mornar",
+    "league": "ABA"
+  },
+  {
+    "name": "Partizan",
+    "latitude": 44.81418496995902,
+    "longitude": 20.42108820914276,
+    "icon": "Partizan",
+    "league": "ABA"
+  },
+  {
+    "name": "SCDerby",
+    "latitude": 42.4380822018432,
+    "longitude": 19.253971187625275,
+    "icon": "SCDerby",
+    "league": "ABA"
+  }
+]
