@@ -5,7 +5,10 @@
 <script>
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import { iconsplk } from "./LeagueMarkers/plk_icons.js";
+
+import PLKIcons from "./JsonMarkers/plkMarkers.json";
+
+//import { iconsplk } from "./LeagueMarkers/plk_icons.js";
 import { iconsestlat } from "./LeagueMarkers/est-lat_icons.js";
 import { iconslkllietuva } from "./LeagueMarkers/lkllietuva_icons.js";
 import { iconsbbl } from "./LeagueMarkers/bbl_icons.js";
@@ -59,55 +62,17 @@ export default {
     },
     //plk
     addPLKMarkers() {
-      L.marker([53.01774180895404, 18.58839335478321], {
-        icon: iconsplk.TwardePierniki,
-      }).addTo(this.map);
-      L.marker([52.64215483247922, 19.078747325737066], {
-        icon: iconsplk.AnwilWloclawek,
-      }).addTo(this.map);
-      L.marker([54.54292641115558, 18.54417246038183], {
-        icon: iconsplk.ArkaGdynia,
-      }).addTo(this.map);
-      L.marker([54.461642671632156, 17.006887432312496], {
-        icon: iconsplk.CzarniSlupsk,
-      }).addTo(this.map);
-      L.marker([52.238015007025666, 20.99557172767503], {
-        icon: iconsplk.DzikiWarszawa,
-      }).addTo(this.map);
-      L.marker([50.31765467295531, 18.586837473671697], {
-        icon: iconsplk.GTKGliwice,
-      }).addTo(this.map);
-      L.marker([53.42430031750733, 14.51145715295809], {
-        icon: iconsplk.KingSzczecin,
-      }).addTo(this.map);
-      L.marker([52.221471243279986, 21.040755797067394], {
-        icon: iconsplk.LegiaWarszawa,
-      }).addTo(this.map);
-      L.marker([50.320775925817244, 19.190338625797928], {
-        icon: iconsplk.MKSDaborwaGornicza,
-      }).addTo(this.map);
-      L.marker([51.651218460455596, 17.82835671639664], {
-        icon: iconsplk.OstrowWielkopolski,
-      }).addTo(this.map);
-      L.marker([51.117513428017105, 17.024087983512466], {
-        icon: iconsplk.SlaskWroclaw,
-      }).addTo(this.map);
-      L.marker([50.064204330219866, 22.23648169510024], {
-        icon: iconsplk.SokolLancut,
-      }).addTo(this.map);
-      L.marker([53.341376128423434, 15.021300268295226], {
-        icon: iconsplk.SpojniaStargard,
-      }).addTo(this.map);
-      L.marker([51.24872255923075, 22.59797619701333], {
-        icon: iconsplk.StartLublin,
-      }).addTo(this.map);
-      L.marker([51.928456869282975, 15.488111254721973], {
-        icon: iconsplk.StelmetZielonaGora,
-      }).addTo(this.map);
-      L.marker([54.426661018998786, 18.58049322300126], {
-        icon: iconsplk.TreflSopot,
-      }).addTo(this.map);
+      PLKIcons.forEach((marker) => {
+        console.log(`../../assets/plk/${marker.icon}.png`);
+        const iconPath = "../../public/league-icons/plk/AnwilWloclawek.png";
+        L.marker([marker.latitude, marker.longitude], {
+          iconUrl: iconPath,
+          iconSize: [32, 32],
+          iconAnchor: [16, 16],
+        }).addTo(this.map);
+      });
     },
+
     //EST-LAT
     addEstLatMarkers() {
       L.marker([56.825619547953394, 24.61128078230789], {

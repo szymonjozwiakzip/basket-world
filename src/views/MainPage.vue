@@ -1,20 +1,23 @@
 <template>
   <div id="appDiv">
     <NavigationNavbar />
-    <LeafletMap />
+    <!-- <LeafletMap /> -->
+    <VueLeafletMap />
   </div>
 </template>
 
 <script>
-import LeafletMap from "../components/LeafletMap.vue";
+// import LeafletMap from "../components/LeafletMap.vue";
 import NavigationNavbar from "../components/Navbar.vue";
 import "../style.scss";
+import VueLeafletMap from "@/components/VueLeafletMap.vue";
 
 export default {
   name: "MainPage",
   components: {
-    LeafletMap,
+    // LeafletMap,
     NavigationNavbar,
+    VueLeafletMap,
   },
   data() {
     return {

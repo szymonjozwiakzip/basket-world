@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Twarde Pierniki",
+    "latitude": 53.01774180895404,
+    "longitude": 18.58839335478321,
+    "icon": "TwardePierniki",
+    "league": "PLK"
+  },
+  {
+    "name": "Anwil Włocławek",
+    "latitude": 52.64215483247922,
+    "longitude": 19.078747325737066,
+    "icon": "AnwilWloclawek",
+    "league": "PLK"
+  },
+  {
+    "name": "Arka Gdynia",
+    "latitude": 54.54292641115558,
+    "longitude": 18.54417246038183,
+    "icon": "ArkaGdynia",
+    "league": "PLK"
+  },
+  {
+    "name": "Czarni Słupsk",
+    "latitude": 54.461642671632156,
+    "longitude": 17.006887432312496,
+    "icon": "CzarniSlupsk",
+    "league": "PLK"
+  },
+  {
+    "name": "Dziki Warszawa",
+    "latitude": 52.238015007025666,
+    "longitude": 20.99557172767503,
+    "icon": "DzikiWarszawa",
+    "league": "PLK"
+  },
+  {
+    "name": "GTK Gliwice",
+    "latitude": 50.31765467295531,
+    "longitude": 18.586837473671697,
+    "icon": "GTKGliwice",
+    "league": "PLK"
+  },
+  {
+    "name": "King Szczecin",
+    "latitude": 53.42430031750733,
+    "longitude": 14.51145715295809,
+    "icon": "KingSzczecin",
+    "league": "PLK"
+  },
+  {
+    "name": "Legia Warszawa",
+    "latitude": 52.221471243279986,
+    "longitude": 21.040755797067394,
+    "icon": "LegiaWarszawa",
+    "league": "PLK"
+  },
+  {
+    "name": "MKS Dąbrowa Górnicza",
+    "latitude": 50.320775925817244,
+    "longitude": 19.190338625797928,
+    "icon": "MKSDaborwaGornicza",
+    "league": "PLK"
+  },
+  {
+    "name": "Ostrów Wielkopolski",
+    "latitude": 51.651218460455596,
+    "longitude": 17.82835671639664,
+    "icon": "OstrowWlkp",
+    "league": "PLK"
+  },
+  {
+    "name": "Śląsk Wrocław",
+    "latitude": 51.117513428017105,
+    "longitude": 17.024087983512466,
+    "icon": "SlaskWroclaw",
+    "league": "PLK"
+  },
+  {
+    "name": "Sokół Łańcut",
+    "latitude": 50.064204330219866,
+    "longitude": 22.23648169510024,
+    "icon": "SokolLancut",
+    "league": "PLK"
+  },
+  {
+    "name": "Spójnia Stargard",
+    "latitude": 53.341376128423434,
+    "longitude": 15.021300268295226,
+    "icon": "SpojniaStargard",
+    "league": "PLK"
+  },
+  {
+    "name": "Start Lublin",
+    "latitude": 51.24872255923075,
+    "longitude": 22.59797619701333,
+    "icon": "StartLublin",
+    "league": "PLK"
+  },
+  {
+    "name": "Stelmet Zielona Góra",
+    "latitude": 51.928456869282975,
+    "longitude": 15.488111254721973,
+    "icon": "StelmetZielonaGora",
+    "league": "PLK"
+  },
+  {
+    "name": "Trefl Sopot",
+    "latitude": 54.426661018998786,
+    "longitude": 18.58049322300126,
+    "icon": "TreflSopot",
+    "league": "PLK"
+  }
+]
