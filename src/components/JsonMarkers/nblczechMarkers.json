@@ -1,0 +1,86 @@
+[
+  {
+    "name": "BasketBrno",
+    "latitude": 49.19401761189462,
+    "longitude": 16.609169364735404,
+    "icon": "BasketBrno",
+    "league": "NblCzech"
+  },
+  {
+    "name": "BCKolin",
+    "latitude": 50.02136125571996,
+    "longitude": 15.20871014287493,
+    "icon": "BCKolin",
+    "league": "NblCzech"
+  },
+  {
+    "name": "BKDecin",
+    "latitude": 50.78151854708998,
+    "longitude": 14.21684780926773,
+    "icon": "BKDecin",
+    "league": "NblCzech"
+  },
+  {
+    "name": "BKOlomoucko",
+    "latitude": 49.48457778132458,
+    "longitude": 17.104150128263097,
+    "icon": "BKOlomoucko",
+    "league": "NblCzech"
+  },
+  {
+    "name": "BKOpava",
+    "latitude": 49.949634935706825,
+    "longitude": 17.884483517158753,
+    "icon": "BKOpava",
+    "league": "NblCzech"
+  },
+  {
+    "name": "EraNymburk",
+    "latitude": 50.17864101845799,
+    "longitude": 15.0611813734873,
+    "icon": "EraNymburk",
+    "league": "NblCzech"
+  },
+  {
+    "name": "NHOstrava",
+    "latitude": 49.833745009201216,
+    "longitude": 18.281014085951202,
+    "icon": "NHOstrava",
+    "league": "NblCzech"
+  },
+  {
+    "name": "Pardubice",
+    "latitude": 50.0402915773839,
+    "longitude": 15.76938793807058,
+    "icon": "Pardubice",
+    "league": "NblCzech"
+  },
+  {
+    "name": "SlaviaPraha",
+    "latitude": 50.068681928788806,
+    "longitude": 14.477555565053958,
+    "icon": "SlaviaPraha",
+    "league": "NblCzech"
+  },
+  {
+    "name": "Srsni",
+    "latitude": 49.31035509331072,
+    "longitude": 14.149707628255273,
+    "icon": "Srsni",
+    "league": "NblCzech"
+  },
+  {
+    "name": "USKPraha",
+    "latitude": 50.06699095115539,
+    "longitude": 14.432129431364048,
+    "icon": "USKPraha",
+    "league": "NblCzech"
+  },
+  {
+    "name": "UstiNadLabem",
+    "latitude": 50.6649937762732,
+    "longitude": 14.012745420899304,
+    "icon": "UstiNadLabem",
+    "league": "NblCzech"
+  }
+]

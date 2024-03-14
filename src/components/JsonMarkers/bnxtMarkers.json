@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Belfius",
+    "latitude": 50.45031901809368,
+    "longitude": 3.875464205815603,
+    "icon": "Belfius",
+    "league": "BNXT"
+  },
+  {
+    "name": "BrusselsBasketball",
+    "latitude": 50.89258714166866,
+    "longitude": 4.376819397635821,
+    "icon": "BrusselsBasketball",
+    "league": "BNXT"
+  },
+  {
+    "name": "FilouOostende",
+    "latitude": 51.21746587175197,
+    "longitude": 2.8878980860136485,
+    "icon": "FilouOostende",
+    "league": "BNXT"
+  },
+  {
+    "name": "GiantsAntwerp",
+    "latitude": 51.23723200258558,
+    "longitude": 4.440459239978861,
+    "icon": "GiantsAntwerp",
+    "league": "BNXT"
+  },
+  {
+    "name": "KangoeroesMechelen",
+    "latitude": 51.03119074511298,
+    "longitude": 4.46574860135037,
+    "icon": "KangoeroesMechelen",
+    "league": "BNXT"
+  },
+  {
+    "name": "LeuvenBears",
+    "latitude": 50.91103530309252,
+    "longitude": 4.712930221175686,
+    "icon": "LeuvenBears",
+    "league": "BNXT"
+  },
+  {
+    "name": "LiegeBasket",
+    "latitude": 50.57745380572556,
+    "longitude": 5.550969570639341,
+    "icon": "LiegeBasket",
+    "league": "BNXT"
+  },
+  {
+    "name": "LimburgUnited",
+    "latitude": 50.93894165018119,
+    "longitude": 5.320526357164662,
+    "icon": "LimburgUnited",
+    "league": "BNXT"
+  },
+  {
+    "name": "Okapiaalst",
+    "latitude": 50.93988129920526,
+    "longitude": 4.054730412983153,
+    "icon": "Okapiaalst",
+    "league": "BNXT"
+  },
+  {
+    "name": "SpirouBasket",
+    "latitude": 50.44669399053546,
+    "longitude": 4.43922970688638,
+    "icon": "SpirouBasket",
+    "league": "BNXT"
+  },
+  {
+    "name": "TalentsSpurs",
+    "latitude": 50.806255231905865,
+    "longitude": 3.300692514831252,
+    "icon": "TalentsSpurs",
+    "league": "BNXT"
+  },
+  {
+    "name": "DonarGronningen",
+    "latitude": 53.20266964230319,
+    "longitude": 6.5553969689063285,
+    "icon": "DonarGronningen",
+    "league": "BNXT"
+  },
+  {
+    "name": "Feyenoord",
+    "latitude": 51.89395962357702,
+    "longitude": 4.526298740009007,
+    "icon": "Feyenoord",
+    "league": "BNXT"
+  },
+  {
+    "name": "HelderSuns",
+    "latitude": 52.94504285213182,
+    "longitude": 4.76705098423948,
+    "icon": "HelderSuns",
+    "league": "BNXT"
+  },
+  {
+    "name": "HeroesDenBosch",
+    "latitude": 51.72270162569572,
+    "longitude": 5.315588930730357,
+    "icon": "HeroesDenBosch",
+    "league": "BNXT"
+  },
+  {
+    "name": "LandstedeHammers",
+    "latitude": 52.52217630821236,
+    "longitude": 6.12243230934771,
+    "icon": "LandstedeHammers",
+    "league": "BNXT"
+  },
+  {
+    "name": "Limburg",
+    "latitude": 51.25731787079635,
+    "longitude": 5.692557487869663,
+    "icon": "Limburg",
+    "league": "BNXT"
+  },
+  {
+    "name": "LWDBasket",
+    "latitude": 53.211372572253296,
+    "longitude": 5.8254166670526155,
+    "icon": "LWDBasket",
+    "league": "BNXT"
+  },
+  {
+    "name": "YoastUnited",
+    "latitude": 52.16659974434661,
+    "longitude": 4.510949805003543,
+    "icon": "YoastUnited",
+    "league": "BNXT"
+  },
+  {
+    "name": "ZZLeiden",
+    "latitude": 52.15010082044637,
+    "longitude": 4.475391699547663,
+    "icon": "ZZLeiden",
+    "league": "BNXT"
+  }
+]

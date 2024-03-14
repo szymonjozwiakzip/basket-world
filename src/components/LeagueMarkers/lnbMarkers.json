@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Blois",
+    "latitude": 47.60147519087981,
+    "longitude": 1.3291299434366033,
+    "icon": "Blois",
+    "league": "LNB"
+  },
+  {
+    "name": "Bourg",
+    "latitude": 46.186876889329746,
+    "longitude": 5.248483719462745,
+    "icon": "Bourg",
+    "league": "LNB"
+  },
+  {
+    "name": "Chalon",
+    "latitude": 46.78700442508851,
+    "longitude": 4.86497107429036,
+    "icon": "Chalon",
+    "league": "LNB"
+  },
+  {
+    "name": "Cholet",
+    "latitude": 47.05770098081191,
+    "longitude": -0.8965368489831228,
+    "icon": "Cholet",
+    "league": "LNB"
+  },
+  {
+    "name": "Dijon",
+    "latitude": 47.33260542793946,
+    "longitude": 5.056183758967851,
+    "icon": "Dijon",
+    "league": "LNB"
+  },
+  {
+    "name": "Dunquerque",
+    "latitude": 50.9986485006889,
+    "longitude": 2.122533641918873,
+    "icon": "Dunquerque",
+    "league": "LNB"
+  },
+  {
+    "name": "LeMans",
+    "latitude": 47.95607658600512,
+    "longitude": 0.22665291481283276,
+    "icon": "LeMans",
+    "league": "LNB"
+  },
+  {
+    "name": "LePortel",
+    "latitude": 50.71714118478925,
+    "longitude": 1.5845475792215813,
+    "icon": "LePortel",
+    "league": "LNB"
+  },
+  {
+    "name": "Limoges",
+    "latitude": 45.82790699320342,
+    "longitude": 1.2601750254623518,
+    "icon": "Limoges",
+    "league": "LNB"
+  },
+  {
+    "name": "LyonVilleurbanne",
+    "latitude": 45.76652272498766,
+    "longitude": 4.907785822132507,
+    "icon": "LyonVilleurbanne",
+    "league": "LNB"
+  },
+  {
+    "name": "Metropolitans",
+    "latitude": 48.89609265892796,
+    "longitude": 2.278006212998819,
+    "icon": "Metropolitans",
+    "league": "LNB"
+  },
+  {
+    "name": "Monaco",
+    "latitude": 43.727798463463785,
+    "longitude": 7.415245716506386,
+    "icon": "Monaco",
+    "league": "LNB"
+  },
+  {
+    "name": "Nancy",
+    "latitude": 48.699513177722736,
+    "longitude": 6.139059126912494,
+    "icon": "Nancy",
+    "league": "LNB"
+  },
+  {
+    "name": "Nanterre",
+    "latitude": 48.89205773718268,
+    "longitude": 2.2118121123357595,
+    "icon": "Nanterre",
+    "league": "LNB"
+  },
+  {
+    "name": "Paris",
+    "latitude": 48.89932972715457,
+    "longitude": 2.36000504819353,
+    "icon": "Paris",
+    "league": "LNB"
+  },
+  {
+    "name": "Roanne",
+    "latitude": 46.03107102443696,
+    "longitude": 4.051598424530872,
+    "icon": "Roanne",
+    "league": "LNB"
+  },
+  {
+    "name": "SaintQuentin",
+    "latitude": 49.84879888939587,
+    "longitude": 3.294151362767722,
+    "icon": "SaintQuentin",
+    "league": "LNB"
+  },
+  {
+    "name": "Strasbourg",
+    "latitude": 48.60006076845759,
+    "longitude": 7.765248335733138,
+    "icon": "Strasbourg",
+    "league": "LNB"
+  }
+]

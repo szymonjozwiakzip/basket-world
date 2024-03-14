@@ -1,0 +1,114 @@
+[
+  {
+    "name": "AnadoluEfes",
+    "latitude": 40.988705561179984,
+    "longitude": 28.853853466533785,
+    "icon": "AnadoluEfes",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Bahcesehir",
+    "latitude": 39.79831662856119,
+    "longitude": 30.43688207390633,
+    "icon": "Bahcesehir",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Besiktas",
+    "latitude": 41.08697024426911,
+    "longitude": 29.02309781257313,
+    "icon": "Besiktas",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Bursaspor",
+    "latitude": 40.2273985108079,
+    "longitude": 28.971982545085687,
+    "icon": "Bursaspor",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Buyukcekmece",
+    "latitude": 41.026904583656204,
+    "longitude": 28.591223399079837,
+    "icon": "Buyukcekmece",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Darussafaka",
+    "latitude": 41.12633224997248,
+    "longitude": 29.029171494863178,
+    "icon": "Darussafaka",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Fenerbahce",
+    "latitude": 40.992998335793445,
+    "longitude": 29.10486214140579,
+    "icon": "Fenerbahce",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Galatasaray",
+    "latitude": 40.988567885812756,
+    "longitude": 28.85369253398917,
+    "icon": "Galatasaray",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Gaziantep",
+    "latitude": 37.02319773394598,
+    "longitude": 37.35249792437553,
+    "icon": "Gaziantep",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Karsiyaka",
+    "latitude": 38.47447227072278,
+    "longitude": 27.076205639460113,
+    "icon": "Karsiyaka",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Konyaspor",
+    "latitude": 37.92156196066834,
+    "longitude": 32.496601422241476,
+    "icon": "Konyaspor",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Manisa",
+    "latitude": 38.649955488032134,
+    "longitude": 27.34647282679318,
+    "icon": "Manisa",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Merkezefendi",
+    "latitude": 37.73930336285629,
+    "longitude": 29.094442512452304,
+    "icon": "Merkezefendi",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "Petkim",
+    "latitude": 38.79492872382227,
+    "longitude": 26.965416879944737,
+    "icon": "Petkim",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "TofasBursa",
+    "latitude": 40.22749680669392,
+    "longitude": 28.97170359534168,
+    "icon": "TofasBursa",
+    "league": "BasketbolSuperLigi"
+  },
+  {
+    "name": "TurkTelekom",
+    "latitude": 39.93769524526624,
+    "longitude": 32.84393418976874,
+    "icon": "TurkTelekom",
+    "league": "BasketbolSuperLigi"
+  }
+]

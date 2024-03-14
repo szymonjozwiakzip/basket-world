@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BasketCremona",
+    "latitude": 45.151506148918166,
+    "longitude": 10.033989173059261,
+    "icon": "BasketCremona",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Brescia",
+    "latitude": 45.52930109962681,
+    "longitude": 10.176807829097593,
+    "icon": "Brescia",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "DinamoSassari",
+    "latitude": 40.717085825806734,
+    "longitude": 8.583153316402663,
+    "icon": "DinamoSassari",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "EAMilano",
+    "latitude": 45.401449836426195,
+    "longitude": 9.14226251101499,
+    "icon": "EAMilano",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "HappyCasaBrindisi",
+    "latitude": 40.61426788347855,
+    "longitude": 17.946716486103814,
+    "icon": "HappyCasaBrindisi",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Napoli",
+    "latitude": 40.82238340384062,
+    "longitude": 14.179210872227081,
+    "icon": "Napoli",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Pesaro",
+    "latitude": 43.90315155258487,
+    "longitude": 12.86711784773697,
+    "icon": "Pesaro",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Pistoia",
+    "latitude": 43.931253330684214,
+    "longitude": 10.940439856991322,
+    "icon": "Pistoia",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "ReggioEmilia",
+    "latitude": 44.69914300936736,
+    "longitude": 10.624717630033905,
+    "icon": "ReggioEmilia",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Scafati",
+    "latitude": 40.76329739278071,
+    "longitude": 14.517930889688,
+    "icon": "Scafati",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Tortona",
+    "latitude": 45.12439133053979,
+    "longitude": 8.46150661655685,
+    "icon": "Tortona",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Trentino",
+    "latitude": 46.041817343325064,
+    "longitude": 11.122784238329407,
+    "icon": "Trentino",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Treviso",
+    "latitude": 45.724035581450394,
+    "longitude": 12.262514609176275,
+    "icon": "Treviso",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Varese",
+    "latitude": 45.83614494418462,
+    "longitude": 8.8023419171209,
+    "icon": "Varese",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "Venezia",
+    "latitude": 45.48854715684501,
+    "longitude": 12.278712685883693,
+    "icon": "Venezia",
+    "league": "LegaBasketA"
+  },
+  {
+    "name": "VirtusBologna",
+    "latitude": 44.48592839613759,
+    "longitude": 11.248183180295117,
+    "icon": "VirtusBologna",
+    "league": "LegaBasketA"
+  }
+]

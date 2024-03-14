@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ArgesPitesti",
+    "latitude": 44.83959406284955,
+    "longitude": 24.89388943970213,
+    "icon": "ArgesPitesti",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "Brasov",
+    "latitude": 45.66030017258059,
+    "longitude": 25.617986482063216,
+    "icon": "Brasov",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "Constanta",
+    "latitude": 44.18436804612257,
+    "longitude": 28.653378966369417,
+    "icon": "Constanta",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "CSMOradea",
+    "latitude": 47.04610043895392,
+    "longitude": 21.913765487683772,
+    "icon": "CSMOradea",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "DinamoBucharest",
+    "latitude": 44.45399839593747,
+    "longitude": 26.104109224341368,
+    "icon": "DinamoBucharest",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "RapidBucuresti",
+    "latitude": 44.45674390272354,
+    "longitude": 26.055703496529084,
+    "icon": "RapidBucuresti",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "Sibiu",
+    "latitude": 45.797091821187564,
+    "longitude": 24.144985348557462,
+    "icon": "Sibiu",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "TarguMures",
+    "latitude": 46.53420251396902,
+    "longitude": 24.55374490389455,
+    "icon": "TarguMures",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "Voluntari",
+    "latitude": 44.512486022496944,
+    "longitude": 26.14065125593377,
+    "icon": "Voluntari",
+    "league": "DiviziaARomania"
+  },
+  {
+    "name": "ClujNapoca",
+    "latitude": 46.767261408662925,
+    "longitude": 23.570278826291123,
+    "icon": "ClujNapoca",
+    "league": "DiviziaARomania"
+  }
+]

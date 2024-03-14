@@ -1,0 +1,93 @@
+[
+  {
+    "name": "HapoelAfula",
+    "latitude": 32.62639936834863,
+    "longitude": 35.31972962392421,
+    "icon": "HapoelAfula",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelBeerSheva",
+    "latitude": 31.271829363266715,
+    "longitude": 34.77789455828343,
+    "icon": "HapoelBeerSheva",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelEilat",
+    "latitude": 29.558967213902637,
+    "longitude": 34.952260295231355,
+    "icon": "HapoelEilat",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelGalil",
+    "latitude": 33.172561382637774,
+    "longitude": 35.60797572876204,
+    "icon": "HapoelGalil",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelHaifa",
+    "latitude": 32.7877570541221,
+    "longitude": 34.997086025783204,
+    "icon": "HapoelHaifa",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelHolon",
+    "latitude": 32.00232596239066,
+    "longitude": 34.79747769692353,
+    "icon": "HapoelHolon",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelSholmo",
+    "latitude": 32.109275924798155,
+    "longitude": 34.810733239253935,
+    "icon": "HapoelSholmo",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "HapoelYerusalem",
+    "latitude": 31.75124498880938,
+    "longitude": 35.19414283924372,
+    "icon": "HapoelYerusalem",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "Herzeliya",
+    "latitude": 32.1736604239271,
+    "longitude": 34.83326342391082,
+    "icon": "Herzeliya",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "Ironi",
+    "latitude": 32.04688038886558,
+    "longitude": 34.81451761041604,
+    "icon": "Ironi",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "IroniKiryat",
+    "latitude": 32.80739553384244,
+    "longitude": 35.11030811618479,
+    "icon": "IroniKiryat",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "IroniNessZiona",
+    "latitude": 31.93138742037242,
+    "longitude": 34.811498174159645,
+    "icon": "IroniNessZiona",
+    "league": "IsraelSuperLeague"
+  },
+  {
+    "name": "Maccabi",
+    "latitude": 32.06111549167566,
+    "longitude": 34.79139299665407,
+    "icon": "Maccabi",
+    "league": "IsraelSuperLeague"
+  }
+]

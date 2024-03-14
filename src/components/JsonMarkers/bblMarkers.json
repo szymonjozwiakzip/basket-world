@@ -1,0 +1,128 @@
+[
+  {
+    "name": "AlbaBerlin",
+    "latitude": 52.50633227689836,
+    "longitude": 13.443810216375322,
+    "icon": "AlbaBerlin",
+    "league": "BBL"
+  },
+  {
+    "name": "BambergBaskets",
+    "latitude": 49.88458306807112,
+    "longitude": 10.924411911944555,
+    "icon": "BambergBaskets",
+    "league": "BBL"
+  },
+  {
+    "name": "BayernMunchen",
+    "latitude": 48.12611873910997,
+    "longitude": 11.52549554262775,
+    "icon": "BayernMunchen",
+    "league": "BBL"
+  },
+  {
+    "name": "BGGottingen",
+    "latitude": 51.54210157826229,
+    "longitude": 9.92139340545021,
+    "icon": "BGGottingen",
+    "league": "BBL"
+  },
+  {
+    "name": "Braunschweig",
+    "latitude": 52.27596151985068,
+    "longitude": 10.51633687566982,
+    "icon": "Braunschweig",
+    "league": "BBL"
+  },
+  {
+    "name": "EWEOldenburg",
+    "latitude": 53.1442558703358,
+    "longitude": 8.23531440153021,
+    "icon": "EWEOldenburg",
+    "league": "BBL"
+  },
+  {
+    "name": "HAKROMerlins",
+    "latitude": 49.140947235984896,
+    "longitude": 10.078468013008495,
+    "icon": "HAKROMerlins",
+    "league": "BBL"
+  },
+  {
+    "name": "HamburgTowers",
+    "latitude": 53.49568635462597,
+    "longitude": 10.002788547574804,
+    "icon": "HamburgTowers",
+    "league": "BBL"
+  },
+  {
+    "name": "MHPRiesen",
+    "latitude": 48.89212715105839,
+    "longitude": 9.18359966458041,
+    "icon": "MHPRiesen",
+    "league": "BBL"
+  },
+  {
+    "name": "MLPAcademics",
+    "latitude": 49.40563561514922,
+    "longitude": 8.68749836089941,
+    "icon": "MLPAcademics",
+    "league": "BBL"
+  },
+  {
+    "name": "NINERSChemnitz",
+    "latitude": 50.81325387152095,
+    "longitude": 12.913729330896558,
+    "icon": "NINERSChemnitz",
+    "league": "BBL"
+  },
+  {
+    "name": "RastaVechta",
+    "latitude": 52.733787320816866,
+    "longitude": 8.261826037895101,
+    "icon": "RastaVechta",
+    "league": "BBL"
+  },
+  {
+    "name": "RatiopharmUlm",
+    "latitude": 48.38273877272157,
+    "longitude": 10.006518965479223,
+    "icon": "RatiopharmUlm",
+    "league": "BBL"
+  },
+  {
+    "name": "RostockSeawolves",
+    "latitude": 54.09315890632362,
+    "longitude": 12.144284740102428,
+    "icon": "RostockSeawolves",
+    "league": "BBL"
+  },
+  {
+    "name": "SyntainicsMBC",
+    "latitude": 51.20172420651504,
+    "longitude": 11.957080563360316,
+    "icon": "SyntainicsMBC",
+    "league": "BBL"
+  },
+  {
+    "name": "TelekomBaskets",
+    "latitude": 50.70513198744374,
+    "longitude": 7.060389893488712,
+    "icon": "TelekomBaskets",
+    "league": "BBL"
+  },
+  {
+    "name": "TigersTubingen",
+    "latitude": 48.51110204807759,
+    "longitude": 9.04212355723048,
+    "icon": "TigersTubingen",
+    "league": "BBL"
+  },
+  {
+    "name": "WurzburgBaskets",
+    "latitude": 49.773417528978314,
+    "longitude": 9.941378772555929,
+    "icon": "WurzburgBaskets",
+    "league": "BBL"
+  }
+]

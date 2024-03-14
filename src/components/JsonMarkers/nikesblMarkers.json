@@ -1,0 +1,65 @@
+[
+  {
+    "name": "BanikHandlova",
+    "latitude": 48.72982115196431,
+    "longitude": 18.76987087578125,
+    "icon": "BanikHandlova",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "BCKomarno",
+    "latitude": 47.76247084401153,
+    "longitude": 18.124112476259974,
+    "icon": "BCKomarno",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "BKMLucenec",
+    "latitude": 48.33068306984282,
+    "longitude": 19.669046541703366,
+    "icon": "BKMLucenec",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "InterBratislava",
+    "latitude": 48.162371740359816,
+    "longitude": 17.141334041696098,
+    "icon": "InterBratislava",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "IskraSvit",
+    "latitude": 49.056552848192496,
+    "longitude": 20.20015589940769,
+    "icon": "IskraSvit",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "PatriotiLevice",
+    "latitude": 48.2205439712563,
+    "longitude": 18.59739009751701,
+    "icon": "PatriotiLevice",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "Prievidza",
+    "latitude": 48.77362748215197,
+    "longitude": 18.623992535870276,
+    "icon": "Prievidza",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "SlaviaNitra",
+    "latitude": 48.30877965527305,
+    "longitude": 18.078254250876896,
+    "icon": "SlaviaNitra",
+    "league": "NikeSbl"
+  },
+  {
+    "name": "SpisskiRytieri",
+    "latitude": 48.944007785007,
+    "longitude": 20.56129373200692,
+    "icon": "SpisskiRytieri",
+    "league": "NikeSbl"
+  }
+]

@@ -36,16 +36,26 @@
 
       <LMarker
         v-for="(abaIcon, index) in abaIcons"
-        :key="'acb_' + index"
+        :key="'aba_' + index"
         :lat-lng="[abaIcon.latitude, abaIcon.longitude]"
         :icon="createIcon(abaIcon)"
       />
 
       <LMarker
         v-for="(aleaguehungaryIcon, index) in aleaguehungaryIcons"
-        :key="'acb_' + index"
+        :key="'aleaguehungary_' + index"
         :lat-lng="[aleaguehungaryIcon.latitude, aleaguehungaryIcon.longitude]"
         :icon="createIcon(aleaguehungaryIcon)"
+      />
+
+      <LMarker
+        v-for="(basketbolsuperligiIcon, index) in basketbolsuperligiIcons"
+        :key="'basketbolsuperligi_' + index"
+        :lat-lng="[
+          basketbolsuperligiIcon.latitude,
+          basketbolsuperligiIcon.longitude,
+        ]"
+        :icon="createIcon(basketbolsuperligiIcon)"
       />
     </LMap>
   </div>
@@ -62,6 +72,7 @@ import estlatIcons from "./JsonMarkers/est-latMarkers.json";
 import acbIcons from "./JsonMarkers/acbMarkers.json";
 import abaIcons from "./JsonMarkers/abaMarkers.json";
 import aleaguehungaryIcons from "./JsonMarkers/aleaguehungaryMarkers.json";
+import basketbolsuperligiIcons from "./JsonMarkers/basketbolsuperligiMarkers.json";
 
 const iconPath = "league-icons";
 

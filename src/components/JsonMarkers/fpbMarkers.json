@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ADGalomar",
+    "latitude": 32.642725145253074,
+    "longitude": -16.832418256549268,
+    "icon": "ADGalomar",
+    "league": "FPB"
+  },
+  {
+    "name": "AveiroOli",
+    "latitude": 40.640389453755816,
+    "longitude": -8.653253975576126,
+    "icon": "AveiroOli",
+    "league": "FPB"
+  },
+  {
+    "name": "Benfica",
+    "latitude": 38.73148568865632,
+    "longitude": -9.140682065436538,
+    "icon": "Benfica",
+    "league": "FPB"
+  },
+  {
+    "name": "CDPovoa",
+    "latitude": 41.38667992171695,
+    "longitude": -8.772252431455275,
+    "icon": "CDPovoa",
+    "league": "FPB"
+  },
+  {
+    "name": "Imortal",
+    "latitude": 37.086925596741175,
+    "longitude": -8.256454502609065,
+    "icon": "Imortal",
+    "league": "FPB"
+  },
+  {
+    "name": "Lusitania",
+    "latitude": 37.13015050404671,
+    "longitude": -8.595018510996516,
+    "icon": "Lusitania",
+    "league": "FPB"
+  },
+  {
+    "name": "Oliveirense",
+    "latitude": 40.83114146451275,
+    "longitude": -8.48515964681719,
+    "icon": "Oliveirense",
+    "league": "FPB"
+  },
+  {
+    "name": "Ovarense",
+    "latitude": 40.87642626845812,
+    "longitude": -8.633420608188667,
+    "icon": "Ovarense",
+    "league": "FPB"
+  },
+  {
+    "name": "Portimonense",
+    "latitude": 37.13770648679167,
+    "longitude": -8.535131610571376,
+    "icon": "Portimonense",
+    "league": "FPB"
+  },
+  {
+    "name": "Porto",
+    "latitude": 41.16257676262095,
+    "longitude": -8.581663629612168,
+    "icon": "Porto",
+    "league": "FPB"
+  },
+  {
+    "name": "Sporting",
+    "latitude": 38.76372429987048,
+    "longitude": -9.158418716197973,
+    "icon": "Sporting",
+    "league": "FPB"
+  },
+  {
+    "name": "Vitoria",
+    "latitude": 41.4481151179245,
+    "longitude": -8.280064725901143,
+    "icon": "Vitoria",
+    "league": "FPB"
+  }
+]

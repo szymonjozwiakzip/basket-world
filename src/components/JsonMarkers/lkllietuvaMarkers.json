@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Jonava",
+    "latitude": 55.076782003202474,
+    "longitude": 24.273524480179873,
+    "icon": "Jonava",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Lietkabelis",
+    "latitude": 55.73323356497018,
+    "longitude": 24.339455464493884,
+    "icon": "Lietkabelis",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Mazeikiu",
+    "latitude": 56.30107333209395,
+    "longitude": 22.331789308531462,
+    "icon": "Mazeikiu",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "NeptunasKlaipeda",
+    "latitude": 55.69238786908371,
+    "longitude": 21.155167447669523,
+    "icon": "NeptunasKlaipeda",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Nevezis",
+    "latitude": 55.29478195671947,
+    "longitude": 23.982798987678844,
+    "icon": "Nevezis",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Pasvalio",
+    "latitude": 56.06160790685852,
+    "longitude": 24.41362966346387,
+    "icon": "Pasvalio",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Rytas",
+    "latitude": 54.71899363827523,
+    "longitude": 25.28798560637417,
+    "icon": "Rytas",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Siauliai",
+    "latitude": 55.922855834298424,
+    "longitude": 23.285268597591905,
+    "icon": "Siauliai",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "UtenosJuventus",
+    "latitude": 55.50394289676067,
+    "longitude": 25.593068517236453,
+    "icon": "UtenosJuventus",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "VilniausWolves",
+    "latitude": 54.68713260550191,
+    "longitude": 25.27930796912465,
+    "icon": "VilniausWolves",
+    "league": "LKLLietuva"
+  },
+  {
+    "name": "Zalgris",
+    "latitude": 54.89163710342457,
+    "longitude": 23.913454631417682,
+    "icon": "Zalgris",
+    "league": "LKLLietuva"
+  }
+]
