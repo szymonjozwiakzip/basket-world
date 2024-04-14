@@ -1,6 +1,6 @@
 <template>
   <div id="mapContainer">
-    <LMap :center="[47, 12.0]" :zoom="4" style="width: 800px; height: 500px">
+    <LMap :center="[47, 12.0]" :zoom="4" style="width: 794px; height: 495px">
       <!--<l-tile-layer
         url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
       ></l-tile-layer>-->

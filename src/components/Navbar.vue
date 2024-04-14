@@ -23,7 +23,11 @@
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <router-link to="/search"
+              ><a class="nav-link active" aria-current="page"
+                >Search</a
+              ></router-link
+            >
           </li>
           <li class="nav-item dropdown">
             <a

@@ -16,12 +16,18 @@ import LegaBasketAView from "../views/LegaBasketA.vue";
 import LKLView from "../views/Lkl.vue";
 import NBLView from "../views/Nbl.vue";
 import NikeSBLView from "../views/NikeSBL.vue";
+import TeamSearch from "../views/TeamSearch.vue";
 
 const routes = [
   {
     path: "/",
     name: "Main",
     component: MainPage,
+  },
+  {
+    path: "/search",
+    name: "TeamSearch",
+    component: TeamSearch,
   },
   {
     path: "/plk",

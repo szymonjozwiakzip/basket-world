@@ -9,7 +9,6 @@
     <!-- Menu -->
     <div class="menu">
       <button @click="showStandings">Standings</button>
-      <button @click="showResults">Results</button>
       <button @click="showMap">Map</button>
     </div>
 
@@ -46,12 +45,34 @@
           </tr>
         </tbody>
       </table>
-      <div v-else-if="activeTab === 'results'">
-        <p>Results content goes here.</p>
-      </div>
       <div v-else-if="activeTab === 'map'">
-        <p>Map component goes here.</p>
-        <LeafletMap />
+        <div>
+          <LMap
+            :center="[52, 19.0]"
+            :zoom="5.5"
+            style="
+              width: 800px;
+              height: 500px;
+              margin-top: 80px;
+              border: 3px solid #000;
+              border-radius: 7px;
+              margin: 0 auto;
+            "
+          >
+            <!--<l-tile-layer
+            url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+          ></l-tile-layer>-->
+            <l-tile-layer
+              url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
+            ></l-tile-layer>
+            <LMarker
+              v-for="(plkIcon, index) in PLKIcons"
+              :key="'plk_' + index"
+              :lat-lng="[plkIcon.latitude, plkIcon.longitude]"
+              :icon="createIcon(plkIcon)"
+            />
+          </LMap>
+        </div>
       </div>
     </div>
   </div>
@@ -60,7 +81,10 @@
 <script>
 import plkData from "../../plk_data.json";
 import "../style.scss";
-import LeafletMap from "../components/LeafletMap.vue";
+import { LMap, LTileLayer, LMarker } from "@vue-leaflet/vue-leaflet";
+import PLKIcons from "../components/JsonMarkers/plkMarkers.json";
+import L from "leaflet";
+const iconPath = "league-icons";
 
 export default {
   name: "PLKView",
@@ -68,21 +92,36 @@ export default {
     return {
       plkData: plkData,
       activeTab: "standings",
+      PLKIcons: PLKIcons,
     };
+  },
+  components: {
+    LMap,
+    LMarker,
+    LTileLayer,
   },
   methods: {
     showStandings() {
       this.activeTab = "standings";
     },
-    showResults() {
-      this.activeTab = "results";
-    },
     showMap() {
       this.activeTab = "map";
     },
-  },
-  components: {
-    LeafletMap,
+    createIcon(leagueIcon) {
+      console.log(
+        `${iconPath}/${leagueIcon.league.toLowerCase()}/${leagueIcon.icon}.${
+          leagueIcon.league.toLowerCase() === "lkllietuva" ? "svg" : "png"
+        }`
+      );
+
+      return L.icon({
+        iconUrl: `${iconPath}/${leagueIcon.league.toLowerCase()}/${
+          leagueIcon.icon
+        }.${leagueIcon.league.toLowerCase() === "lkllietuva" ? "svg" : "png"}`,
+        iconSize: [32, 32],
+        iconAnchor: [16, 16],
+      });
+    },
   },
 };
 </script>
